@@ -1,0 +1,515 @@
+"","year","Model","Model2","Model3","Model4","Price","Milage","Autom","rul","gas","color","Other","View","Date","ID","Fullname","volume","condition","privod","url"
+"2","1981","Mercedes-Benz","S","500","500","5000","280000","Automatic","Left","Gas","Gray","","Sedan","24.05.2021","autoam 1","Mercedes-Benz S 500",NA,NA,NA,NA
+"3","2000","Mercedes-Benz","230","</span>","C-Class","5000","150000","Manual","Left","Gasoline","Silver","Light Sensor","Sedan","05.08.2021","autoam 2","Mercedes-Benz 230 </span>",NA,NA,NA,NA
+"4","2000","Mercedes-Benz","C","240","240 c-class","5000","95000","Automatic","Left","Gasoline","Blue","<span style=""background-color:#000000""></span>Black","Sedan","23.04.2021","autoam 3","Mercedes-Benz C 240",NA,NA,NA,NA
+"5","1998","Mercedes-Benz","320","</span>","ML 320 SUV","5000","200000","Automatic","Left","Gas","Black","ABS","Truck","05.08.2021","autoam 4","Mercedes-Benz 320 </span>",NA,NA,NA,NA
+"6","2000","Mercedes-Benz","E","320","320 AVANGARD","5000","240000","Automatic","Left","Gasoline","Silver","ABS","Sedan","13.05.2021","autoam 5","Mercedes-Benz E 320",NA,NA,NA,NA
+"7","2000","Mercedes-Benz","C","200","200","5000","120000","Automatic","Left","Gasoline","Silver","ABS","Sedan","05.05.2021","autoam 6","Mercedes-Benz C 200",NA,NA,NA,NA
+"8","2000","Mercedes-Benz","C","200","200 Kompressor","5000","165000","Manual","Left","Gasoline","Silver","ABS","Sedan","17.04.2021","autoam 7","Mercedes-Benz C 200",NA,NA,NA,NA
+"9","1995","Mercedes-Benz","124","</span>","","5000","420000","Manual","Left","Gasoline","Green","","Sedan","21.06.2021","autoam 8","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"10","1998","Mercedes-Benz","E","240","240 E 240","5000","282000","Automatic","Left","Gas","Silver","","Sedan","13.04.2021","autoam 9","Mercedes-Benz E 240",NA,NA,NA,NA
+"11","1995","Mercedes-Benz","S","320","320","5000","130000","Automatic","Left","Gasoline","Black","ABS","Sedan","11.02.2021","autoam 10","Mercedes-Benz S 320",NA,NA,NA,NA
+"12","1998","Mercedes-Benz","C","180","180","5000","240000","Manual","Left","Gas","Blue","","Sedan","14.03.2022","autoam 11","Mercedes-Benz C 180",NA,NA,NA,NA
+"13","1997","Mercedes-Benz","E","320","320","5000","130000","Automatic","Left","Gas","Black","ABS","Sedan","13.03.2022","autoam 12","Mercedes-Benz E 320",NA,NA,NA,NA
+"14","1996","Mercedes-Benz","C","230","230","4850","200000","Manual","Left","Gas","Silver","ABS","Sedan","21.04.2021","autoam 13","Mercedes-Benz C 230",NA,NA,NA,NA
+"15","2000","Nissan","Pathfinder","</span>","3.3 SUV","5000","150","Manual","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Truck","25.11.2020","autoam 14","Nissan Pathfinder </span>",NA,NA,NA,NA
+"16","1995","Mercedes-Benz","C","220","220","4800","300000","Automatic","Left","Gas","Silver","2.2","Sedan","22.05.2021","autoam 15","Mercedes-Benz C 220",NA,NA,NA,NA
+"17","2000","Mercedes-Benz","C","200","200 w203","4800","115420","Manual","Left","Gasoline","Silver","ABS","Sedan","19.02.2021","autoam 16","Mercedes-Benz C 200",NA,NA,NA,NA
+"18","1998","Mercedes-Benz","E","320","320","4800","135596","Automatic","Left","Gas","Silver","ABS","Sedan","31.03.2021","autoam 17","Mercedes-Benz E 320",NA,NA,NA,NA
+"19","1994","Mercedes-Benz","S","500","500 W140","4800","755000","Automatic","Left","Gasoline","Red","","Sedan","18.02.2021","autoam 18","Mercedes-Benz S 500",NA,NA,NA,NA
+"20","1998","Mercedes-Benz","E","320","320","4800","189132","Automatic","Left","Gasoline","Silver","ABS","Sedan","29.04.2021","autoam 19","Mercedes-Benz E 320",NA,NA,NA,NA
+"21","1998","Chevrolet","Camaro","</span>","","4800","96000","Automatic","Left","Gasoline","Red","3","Coupe","25.05.2021","autoam 20","Chevrolet Camaro </span>",NA,NA,NA,NA
+"22","1998","Mercedes-Benz","C","240","240 elegance","4800","272000","Automatic","Left","Gas","Blue","ABS","Sedan","18.02.2021","autoam 21","Mercedes-Benz C 240",NA,NA,NA,NA
+"23","2000","Mercedes-Benz","C","180","180","4900","310000","Manual","Left","Gas","Silver","","Sedan","15.03.2022","autoam 22","Mercedes-Benz C 180",NA,NA,NA,NA
+"24","2000","Volkswagen","Passat","</span>","","5000","1000000","Automatic","Left","Gas","Silver","<span style=""background-color:#000000""></span>Black","Sedan","17.03.2022","autoam 23","Volkswagen Passat </span>",NA,NA,NA,NA
+"25","1999","Mercedes-Benz","E","200","200 Classic","5000","250000","Manual","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Sedan","17.03.2022","autoam 24","Mercedes-Benz E 200",NA,NA,NA,NA
+"26","2000","Mercedes-Benz","240","</span>","","4700","160000","Automatic","Left","Gas","Silver","ABS","Sedan","06.03.2021","autoam 25","Mercedes-Benz 240 </span>",NA,NA,NA,NA
+"27","1998","Mercedes-Benz","E","240","240","4700","158649","Manual","Left","Gas","Silver","","Sedan","07.04.2021","autoam 26","Mercedes-Benz E 240",NA,NA,NA,NA
+"28","2000","Mercedes-Benz","E","320","320","4700","200000","Automatic","Left","Gas","Golden","","Sedan","13.03.2021","autoam 27","Mercedes-Benz E 320",NA,NA,NA,NA
+"29","1998","Mercedes-Benz","E","320","320 AVANGARDE","4700","260000","Automatic","Left","Gas","Silver","<span style=""background-color:#000000""></span>Black","Sedan","22.02.2021","autoam 28","Mercedes-Benz E 320",NA,NA,NA,NA
+"30","1999","Mercedes-Benz","E","430","430 Mercedes e 430 4matic","5000","137000","Automatic","Left","Gas","Օther color","<span style=""background-color:#ccb486""></span>Beige","Sedan","18.06.2021","autoam 29","Mercedes-Benz E 430",NA,NA,NA,NA
+"31","1994","Mercedes-Benz","S","320","320","5000","190000","Automatic","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","10.07.2021","autoam 30","Mercedes-Benz S 320",NA,NA,NA,NA
+"32","1998","Mercedes-Benz","E","430","430","5000","256000","Automatic","Left","Gas","Silver","ABS","Sedan","08.07.2021","autoam 31","Mercedes-Benz E 430",NA,NA,NA,NA
+"33","1997","Mercedes-Benz","E","320","320 210","4800","300000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Sedan","15.03.2022","autoam 32","Mercedes-Benz E 320",NA,NA,NA,NA
+"34","1998","Mercedes-Benz","C","240","240","5000","1234","Automatic","Left","Gas","Blue","ABS","Sedan","16.08.2021","autoam 33","Mercedes-Benz C 240",NA,NA,NA,NA
+"35","1999","Mercedes-Benz","E","280","280 w210","4650","200000","Automatic","Left","Gas","Օther color","","Sedan","19.06.2021","autoam 34","Mercedes-Benz E 280",NA,NA,NA,NA
+"36","1998","Mercedes-Benz","E","430","430","5000","100000","Automatic","Left","Gasoline","Black","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","28.03.2022","autoam 35","Mercedes-Benz E 430",NA,NA,NA,NA
+"37","2000","Mercedes-Benz","ML","320","320","5000","220000","Automatic","Left","Gasoline","Green","","Wagon","23.08.2021","autoam 36","Mercedes-Benz ML 320",NA,NA,NA,NA
+"38","1999","Mercedes-Benz","E","320","320","5000","270000","Automatic","Left","Gas","Green","","Sedan","03.12.2021","autoam 37","Mercedes-Benz E 320",NA,NA,NA,NA
+"39","2000","Mercedes-Benz","C","320","320","5000","250000","Automatic","Left","Gasoline","Silver","","Sedan","31.03.2022","autoam 38","Mercedes-Benz C 320",NA,NA,NA,NA
+"40","1997","Mercedes-Benz","E","200","200 W210","4900","296000","Manual","Left","Gasoline","Blue","ABS","Sedan","20.06.2021","autoam 39","Mercedes-Benz E 200",NA,NA,NA,NA
+"41","1997","Mercedes-Benz","E","280","280 Avangarde","4600","208000","Automatic","Left","Gasoline","Blue","<span style=""background-color:#000000""></span>Black","Sedan","18.05.2021","autoam 40","Mercedes-Benz E 280",NA,NA,NA,NA
+"42","2000","Mercedes-Benz","CE","200","200","4600","230000","Manual","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","17.02.2021","autoam 41","Mercedes-Benz CE 200",NA,NA,NA,NA
+"43","1995","Mercedes-Benz","S","320","320","5000","250000","Automatic","Left","Gasoline","Black","ABS","Sedan","02.04.2022","autoam 42","Mercedes-Benz S 320",NA,NA,NA,NA
+"44","1998","Mercedes-Benz","C","180","180 Չունի","5000","223000","Manual","Left","Gas","Օther color","ABS","Sedan","24.04.2022","autoam 43","Mercedes-Benz C 180",NA,NA,NA,NA
+"45","1997","Mercedes-Benz","E","200","200","5000","137000","Automatic","Left","Gasoline","Silver","","Sedan","21.02.2022","autoam 44","Mercedes-Benz E 200",NA,NA,NA,NA
+"46","1998","Mercedes-Benz","C","230","230","4900","144000","Manual","Left","Gasoline","Black","","Sedan","06.08.2021","autoam 45","Mercedes-Benz C 230",NA,NA,NA,NA
+"47","1998","Mercedes-Benz","E","200","200","5000","350000","Automatic","Left","Gasoline","Silver","ABS","Sedan","28.11.2021","autoam 46","Mercedes-Benz E 200",NA,NA,NA,NA
+"48","2000","Ford","Galaxy","</span>","","5000","267000","Manual","Left","Gasoline","Sky-blue","2.3","Sedan","09.01.2022","autoam 47","Ford Galaxy </span>",NA,NA,NA,NA
+"49","1994","Mercedes-Benz","E","320","320 W124","5000","180000","Automatic","Left","Gas","White","<span style=""background-color:#ccb486""></span>Beige","Sedan","10.01.2022","autoam 48","Mercedes-Benz E 320",NA,NA,NA,NA
+"50","1995","Mercedes-Benz","S","600","600 50","5000","235000","Automatic","Left","Gas","Black","5.0","Sedan","29.01.2022","autoam 49","Mercedes-Benz S 600",NA,NA,NA,NA
+"51","1998","Mercedes-Benz","E","200","200","5000","299000","Manual","Left","Gas","Green","","Sedan","09.01.2022","autoam 50","Mercedes-Benz E 200",NA,NA,NA,NA
+"210","1998","Mercedes-Benz","E","280","280 Elegance 2.8","5000","278000","Automatic","Left","Gasoline","Gray","<span style=""background-color:#000000""></span>Black","Sedan","23.03.2022","autoam 51","Mercedes-Benz E 280",NA,NA,NA,NA
+"310","1998","Mercedes-Benz","E","280","280","5000","25000","Automatic","Left","Gas","Gray","<span style=""background-color:#000000""></span>Black","Sedan","27.01.2022","autoam 52","Mercedes-Benz E 280",NA,NA,NA,NA
+"410","1995","Mercedes-Benz","S","500","500 Japan s500","5000","220000","Automatic","Left","Gas","Black","","Sedan","05.01.2022","autoam 53","Mercedes-Benz S 500",NA,NA,NA,NA
+"52","2000","Renault","Scenic","</span>","SUV","5000","250000","Manual","Left","Gasoline","Green","<span style=""background-color:#000000""></span>Black","Truck","08.11.2021","autoam 54","Renault Scenic </span>",NA,NA,NA,NA
+"61","1998","Mercedes-Benz","E","320","320 E210","5000","250000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Sedan","22.12.2021","autoam 55","Mercedes-Benz E 320",NA,NA,NA,NA
+"71","1999","Mercedes-Benz","420","</span>","S","4900","260000","Automatic","Left","Gasoline","Black","","Sedan","21.08.2021","autoam 56","Mercedes-Benz 420 </span>",NA,NA,NA,NA
+"81","1997","Mercedes-Benz","E","430","430","5000","153000","Automatic","Left","Gas","Blue","<span style=""background-color:#2e56a6""></span>Blue","Sedan","18.10.2020","autoam 57","Mercedes-Benz E 430",NA,NA,NA,NA
+"91","2000","Chevrolet","Niva","</span>","Frontera 3.2 SUV","5000","150000","Manual","Left","Gasoline","Green","","Truck","31.10.2020","autoam 58","Chevrolet Niva </span>",NA,NA,NA,NA
+"101","2000","Jeep","Grand","Cherokee","Cherokee SUV","5000","135000","Automatic","Left","Gas","Blue","","Truck","15.09.2020","autoam 59","Jeep Grand Cherokee",NA,NA,NA,NA
+"111","1997","Mercedes-Benz","E","420","420","5000","237000","Automatic","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","08.09.2020","autoam 60","Mercedes-Benz E 420",NA,NA,NA,NA
+"121","1999","Mercedes-Benz","E","320","320 E320 gaz","5000","160000","Automatic","Left","Gas","Blue","<span style=""background-color:#000000""></span>Black","Sedan","08.08.2020","autoam 61","Mercedes-Benz E 320",NA,NA,NA,NA
+"131","1998","Mercedes-Benz","E","320","320","5000","120000","Automatic","Left","Gas","Silver","<span style=""background-color:#000000""></span>Black","Sedan","29.11.2021","autoam 62","Mercedes-Benz E 320",NA,NA,NA,NA
+"141","1999","Mercedes-Benz","E","320","320","5000","210000","Automatic","Left","Gas","Green","","Sedan","08.09.2020","autoam 63","Mercedes-Benz E 320",NA,NA,NA,NA
+"151","1998","Mercedes-Benz","320","</span>","","֏2400","160000","Automatic","Left","Gas","Silver","ABS","Sedan","11.09.2020","autoam 64","Mercedes-Benz 320 </span>",NA,NA,NA,NA
+"161","1998","Mercedes-Benz","C","240","240","5000","250000","Automatic","Left","Gas","Օther color","ABS","Sedan","24.07.2020","autoam 65","Mercedes-Benz C 240",NA,NA,NA,NA
+"171","1998","Ford","Expedition","</span>","SUV","5000","150000","Automatic","Left","Gas","Black","","Truck","24.10.2020","autoam 66","Ford Expedition </span>",NA,NA,NA,NA
+"181","2000","Mercedes-Benz","Vito","</span>","V230 Minivan","5000","170000","Automatic","Right","Gas","White","ABS","Minibus","25.10.2021","autoam 67","Mercedes-Benz Vito </span>",NA,NA,NA,NA
+"191","1999","BMW","316","</span>","","5000","205000","Manual","Left","Gasoline","Silver","1.9","Sedan","27.01.2021","autoam 68","BMW 316 </span>",NA,NA,NA,NA
+"201","1997","Mercedes-Benz","420","</span>","","5000","237000","Automatic","Left","Gas","Black","ABS","Hatchback","08.09.2020","autoam 69","Mercedes-Benz 420 </span>",NA,NA,NA,NA
+"211","1998","Mercedes-Benz","E","430","430 Avangard","5000","180000","Automatic","Left","Gasoline","Silver","ABS","Sedan","13.01.2021","autoam 70","Mercedes-Benz E 430",NA,NA,NA,NA
+"221","1997","Mercedes-Benz","E","240","240","5000","300000","Manual","Left","Gas","Silver","2.4","Sedan","25.09.2020","autoam 71","Mercedes-Benz E 240",NA,NA,NA,NA
+"231","1998","Mercedes-Benz","Vito","</span>","Minivan","5000","300000","Manual","Left","Gas","Silver","<span style=""background-color:#bababa""></span>Other","Minibus","20.11.2020","autoam 72","Mercedes-Benz Vito </span>",NA,NA,NA,NA
+"241","2000","Mercedes-Benz","ML","320","320 SUV","5000","280000","Automatic","Left","Gas","Green","ABS","Truck","09.10.2019","autoam 73","Mercedes-Benz ML 320",NA,NA,NA,NA
+"251","1997","Mercedes-Benz","E","320","320 Avantgard","4999","233000","Automatic","Right","Gas","Օther color","ABS","Sedan","15.10.2019","autoam 74","Mercedes-Benz E 320",NA,NA,NA,NA
+"261","2000","Mercedes-Benz","E","240","240","5000","320000","Automatic","Left","Gasoline","Blue","","Wagon","25.02.2022","autoam 75","Mercedes-Benz E 240",NA,NA,NA,NA
+"271","1996","Mercedes-Benz","E","320","320 Avangard","5000","118000","Automatic","Right","Gasoline","Silver","","Sedan","23.12.2021","autoam 76","Mercedes-Benz E 320",NA,NA,NA,NA
+"281","1999","Mercedes-Benz","E","320","320","4990","301935","Automatic","Left","Gasoline","Golden","","Sedan","20.07.2018","autoam 77","Mercedes-Benz E 320",NA,NA,NA,NA
+"291","1997","Mercedes-Benz","320","</span>","","5000","291000","Automatic","Left","Gas","Gray","ABS","Sedan","17.02.2022","autoam 78","Mercedes-Benz 320 </span>",NA,NA,NA,NA
+"301","1998","Mercedes-Benz","E","200","200 2.0 gaz","5000","228000","Manual","Left","Gas","Blue","ABS","Sedan","29.06.2022","autoam 79","Mercedes-Benz E 200",NA,NA,NA,NA
+"311","1998","BMW","323","</span>","sport. restyling 2003","5000","180000","Automatic","Left","Gasoline","Gray","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","15.10.2021","autoam 80","BMW 323 </span>",NA,NA,NA,NA
+"321","1999","BMW","320","</span>","","5000","189579","Automatic","Left","Gasoline","Gray","ABS","Sedan","30.12.2021","autoam 81","BMW 320 </span>",NA,NA,NA,NA
+"331","1998","Mercedes-Benz","C","180","180","5000","204000","Manual","Left","Gas","Silver","","Sedan","25.11.2021","autoam 82","Mercedes-Benz C 180",NA,NA,NA,NA
+"341","2000","Honda","CR-V","</span>","SUV","4990","267500","Manual","Left","Gas","Silver","","Truck","19.02.2022","autoam 83","Honda CR-V </span>",NA,NA,NA,NA
+"351","2000","Mercedes-Benz","200","</span>","","5000","300000","Manual","Left","Gas","Blue","ABS","Sedan","29.10.2021","autoam 84","Mercedes-Benz 200 </span>",NA,NA,NA,NA
+"361","1991","Mercedes-Benz","124","</span>","23","5000","277000","Automatic","Left","Gasoline","Blue","<span style=""background-color:#2e56a6""></span>Blue","Sedan","18.01.2022","autoam 85","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"371","2000","BMW","318","</span>","E46","5000","208000","Manual","Left","Gas","Blue","ABS","Sedan","10.07.2021","autoam 86","BMW 318 </span>",NA,NA,NA,NA
+"381","1994","Mercedes-Benz","124","</span>","E280","5000","290000","Automatic","Left","Gas","Black","","Sedan","21.10.2021","autoam 87","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"391","2000","BMW","316","</span>","","5000","252000","Manual","Left","Gas","Blue","ABS","Sedan","04.01.2021","autoam 88","BMW 316 </span>",NA,NA,NA,NA
+"401","1998","Mercedes-Benz","E","280","280","5000","228000","Automatic","Left","Gasoline","Silver","ABS","Sedan","07.06.2022","autoam 89","Mercedes-Benz E 280",NA,NA,NA,NA
+"411","1999","Mercedes-Benz","E","240","240","5000","240000","Manual","Left","Gasoline","Blue","","Sedan","30.06.2022","autoam 90","Mercedes-Benz E 240",NA,NA,NA,NA
+"421","1999","Mercedes-Benz","240","</span>","","5000","338000","Automatic","Left","Gas","Black","ABS","Sedan","09.04.2022","autoam 91","Mercedes-Benz 240 </span>",NA,NA,NA,NA
+"431","1997","Mercedes-Benz","S","320","320 777","4800","133000","Automatic","Left","Gas","Silver","ABS","Sedan","03.05.2021","autoam 92","Mercedes-Benz S 320",NA,NA,NA,NA
+"441","2000","Mercedes-Benz","C","180","180","4500","215000","Manual","Left","Gasoline","Black","","Sedan","31.05.2021","autoam 93","Mercedes-Benz C 180",NA,NA,NA,NA
+"451","1998","Mercedes-Benz","E","320","320","4500","125000","Automatic","Left","Gasoline","Black","","Sedan","22.02.2021","autoam 94","Mercedes-Benz E 320",NA,NA,NA,NA
+"461","1999","Mercedes-Benz","C","280","280 2.8 v 6","4500","180000","Manual","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","07.06.2021","autoam 95","Mercedes-Benz C 280",NA,NA,NA,NA
+"471","1999","Mercedes-Benz","240","</span>","","4500","160000","Automatic","Left","Gasoline","Blue","2.4","Sedan","27.04.2021","autoam 96","Mercedes-Benz 240 </span>",NA,NA,NA,NA
+"481","2000","Mercedes-Benz","E","320","320 Avangard E 320 W japan","4500","170000","Automatic","Left","Gas","Gray","ABS","Sedan","25.03.2021","autoam 97","Mercedes-Benz E 320",NA,NA,NA,NA
+"491","1996","Mercedes-Benz","E","230","230","4500","290000","Manual","Left","Gas","Silver","","Sedan","25.05.2021","autoam 98","Mercedes-Benz E 230",NA,NA,NA,NA
+"501","1996","Mercedes-Benz","E","230","230 Meqenan gt","4500","250000","Automatic","Right","Gas","Silver","2.3","Sedan","23.04.2021","autoam 99","Mercedes-Benz E 230",NA,NA,NA,NA
+"511","2000","Volkswagen","Passat","</span>","","4500","190000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Sedan","07.04.2021","autoam 100","Volkswagen Passat </span>",NA,NA,NA,NA
+"212","2000","Mercedes-Benz","C","180","180","4500","215000","Manual","Left","Gasoline","Black","","Sedan","31.05.2021","autoam 101","Mercedes-Benz C 180",NA,NA,NA,NA
+"312","1999","Mercedes-Benz","240","</span>","","4500","160000","Automatic","Left","Gasoline","Blue","2.4","Sedan","27.04.2021","autoam 102","Mercedes-Benz 240 </span>",NA,NA,NA,NA
+"412","2000","Volkswagen","Passat","</span>","","4500","190000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Sedan","07.04.2021","autoam 103","Volkswagen Passat </span>",NA,NA,NA,NA
+"53","1998","Mercedes-Benz","C","280","280 SPORT 2.8","4500","310000","Manual","Left","Gasoline","Black","ABS","Sedan","01.03.2021","autoam 104","Mercedes-Benz C 280",NA,NA,NA,NA
+"62","2000","Chrysler","</span>","<div","<div","4500","160000","Automatic","Left","Gasoline","Golden","FWD","Sedan","11.02.2021","autoam 105","Chrysler </span> <div",NA,NA,NA,NA
+"72","2000","Chrysler","</span>","<div","<div","4500","160000","Automatic","Left","Gas","Golden","FWD","Sedan","09.02.2021","autoam 106","Chrysler </span> <div",NA,NA,NA,NA
+"82","2000","BMW","320","</span>","","4400","184500","Automatic","Left","Gas","Silver","2.0","Sedan","24.03.2021","autoam 107","BMW 320 </span>",NA,NA,NA,NA
+"92","1999","Mercedes-Benz","C","180","180 1.8","4300","190000","Manual","Left","Gas","Blue","ABS","Sedan","03.06.2021","autoam 108","Mercedes-Benz C 180",NA,NA,NA,NA
+"102","2000","BMW","320","</span>","","4300","331000","Manual","Left","Gas","Blue","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","07.02.2021","autoam 109","BMW 320 </span>",NA,NA,NA,NA
+"112","2000","BMW","320","</span>","","4500","184000","Automatic","Left","Gas","Silver","ABS","Sedan","09.07.2021","autoam 110","BMW 320 </span>",NA,NA,NA,NA
+"122","1996","Volkswagen","Vento","</span>","","4500","280000","Manual","Left","Gasoline","Silver","ABS","Sedan","21.04.2022","autoam 111","Volkswagen Vento </span>",NA,NA,NA,NA
+"132","1998","Mercedes-Benz","C","180","180","4500","158000","Manual","Left","Gasoline","Gray","","Sedan","13.09.2021","autoam 112","Mercedes-Benz C 180",NA,NA,NA,NA
+"142","1998","Mercedes-Benz","E","240","240 2.5","4200","210","Manual","Left","Gas","Green","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","30.05.2021","autoam 113","Mercedes-Benz E 240",NA,NA,NA,NA
+"152","1997","Mercedes-Benz","240","</span>","","4200","300000","Automatic","Left","Gasoline","Blue","ABS","Sedan","11.05.2021","autoam 114","Mercedes-Benz 240 </span>",NA,NA,NA,NA
+"162","1998","BMW","525","</span>","Idalakan","4500","300","Automatic","Left","Gasoline","Silver","<span style=""background-color:#12a30d""></span>Green","Sedan","15.08.2021","autoam 115","BMW 525 </span>",NA,NA,NA,NA
+"172","1997","Mercedes-Benz","E","230","230","4500","220000","Manual","Left","Gasoline","Silver","","Sedan","30.03.2022","autoam 116","Mercedes-Benz E 230",NA,NA,NA,NA
+"182","1997","Mercedes-Benz","C","180","180 Elegance","֏2200","167000","Manual","Left","Gasoline","Blue","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","17.08.2021","autoam 117","Mercedes-Benz C 180",NA,NA,NA,NA
+"192","1996","Mercedes-Benz","C","180","180","4500","10","Manual","Left","Gasoline","Silver","","Sedan","31.03.2022","autoam 118","Mercedes-Benz C 180",NA,NA,NA,NA
+"202","1998","Mercedes-Benz","E","200","200","4500","300000","Manual","Left","Gas","Silver","","Sedan","16.09.2021","autoam 119","Mercedes-Benz E 200",NA,NA,NA,NA
+"213","1998","Mercedes-Benz","C","180","180 077-339-164","4400","204000","Manual","Left","Gas","Blue","ABS","Sedan","13.12.2021","autoam 120","Mercedes-Benz C 180",NA,NA,NA,NA
+"222","1998","Mercedes-Benz","C","180","180","4500","201000","Manual","Left","Gas","Blue","122","Sedan","30.01.2022","autoam 121","Mercedes-Benz C 180",NA,NA,NA,NA
+"232","1997","Mercedes-Benz","180","</span>","","4500","253000","Manual","Left","Gas","Օther color","ABS","Sedan","06.03.2022","autoam 122","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"242","1996","Mercedes-Benz","124","</span>","","4500","240000","Manual","Left","Gasoline","Black","ABS","Sedan","17.02.2022","autoam 123","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"252","1997","Mercedes-Benz","C","280","280","4500","123456","Automatic","Left","Gas","Silver","","Sedan","12.01.2022","autoam 124","Mercedes-Benz C 280",NA,NA,NA,NA
+"262","1996","Mercedes-Benz","E","230","230","4500","180000","Manual","Left","Gas","Silver","ABS","Sedan","15.01.2022","autoam 125","Mercedes-Benz E 230",NA,NA,NA,NA
+"272","1998","Mercedes-Benz","E","280","280","4500","12345","Automatic","Left","Gas","Black","","Sedan","06.02.2022","autoam 126","Mercedes-Benz E 280",NA,NA,NA,NA
+"282","1998","Mercedes-Benz","CLK","320","320 clk320","4500","106000","Automatic","Left","Gasoline","Black","<span style=""background-color:#000000""></span>Black","Coupe","15.04.2021","autoam 127","Mercedes-Benz CLK 320",NA,NA,NA,NA
+"292","2000","Mercedes-Benz","E","320","320 Ինժեկտոր գազ","4500","322000","Automatic","Left","Gas","Օther color","3.2","Sedan","05.12.2020","autoam 128","Mercedes-Benz E 320",NA,NA,NA,NA
+"302","1998","Mercedes-Benz","E","240","240","4500","280000","Manual","Left","Gas","Silver","<span style=""background-color:#000000""></span>Black","Sedan","01.11.2020","autoam 129","Mercedes-Benz E 240",NA,NA,NA,NA
+"313","2000","BMW","525","</span>","Idealakan vichakshaat shtaaapa","4500","270000","Automatic","Left","Gasoline","Gray","","Sedan","07.06.2021","autoam 130","BMW 525 </span>",NA,NA,NA,NA
+"322","1998","BMW","520","</span>","520i","4500","278000","Manual","Left","Gas","Sky-blue","<span style=""background-color:#000000""></span>Black","Sedan","23.12.2020","autoam 131","BMW 520 </span>",NA,NA,NA,NA
+"332","1998","Mercedes-Benz","C","200","200 Sharlote","4500","230000","Automatic","Left","Gas","Blue","ABS","Sedan","19.11.2020","autoam 132","Mercedes-Benz C 200",NA,NA,NA,NA
+"342","1996","Mercedes-Benz","ML","320","320 ML-320 SUV","4500","250000","Automatic","Left","Gas","Green","","Truck","26.06.2021","autoam 133","Mercedes-Benz ML 320",NA,NA,NA,NA
+"352","1995","Mercedes-Benz","124","</span>","E280","4500","270000","Manual","Left","Gasoline","Black","<span style=""background-color:#000000""></span>Black","Sedan","24.09.2020","autoam 134","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"362","2000","BMW","325","</span>","","4500","70000","Automatic","Left","Gasoline","Silver","","Sedan","07.09.2020","autoam 135","BMW 325 </span>",NA,NA,NA,NA
+"372","1999","Mercedes-Benz","E","320","320 3.2","4500","330000","Automatic","Left","Gas","Silver","","Sedan","22.12.2019","autoam 136","Mercedes-Benz E 320",NA,NA,NA,NA
+"382","2000","Mercedes-Benz","C","240","240","4500","195000","Automatic","Left","Gas","Blue","<span style=""background-color:#000000""></span>Black","Sedan","28.02.2021","autoam 137","Mercedes-Benz C 240",NA,NA,NA,NA
+"392","1995","Mercedes-Benz","S","320","320","4500","360000","Automatic","Left","Gas","Blue","ABS","Sedan","20.09.2020","autoam 138","Mercedes-Benz S 320",NA,NA,NA,NA
+"402","2000","Jaguar","S-Type","</span>","","4500","168000","Automatic","Left","Gasoline","Blue","","Sedan","14.12.2020","autoam 139","Jaguar S-Type </span>",NA,NA,NA,NA
+"413","1998","Mercedes-Benz","200","</span>","elegance","4500","190000","Automatic","Left","Gas","Green","","Sedan","08.12.2020","autoam 140","Mercedes-Benz 200 </span>",NA,NA,NA,NA
+"422","1998","Mercedes-Benz","C","180","180","4500","240000","Manual","Left","Gas","Green","","Sedan","08.04.2022","autoam 141","Mercedes-Benz C 180",NA,NA,NA,NA
+"432","1995","Mercedes-Benz","C","180","180","4500","247000","Manual","Left","Gasoline","Green","<span style=""background-color:#000000""></span>Black","Sedan","03.04.2022","autoam 142","Mercedes-Benz C 180",NA,NA,NA,NA
+"442","1998","BMW","318","</span>","077844332","4500","221000","Manual","Left","Gasoline","Black","ABS","Sedan","18.11.2021","autoam 143","BMW 318 </span>",NA,NA,NA,NA
+"452","1998","Mercedes-Benz","180","</span>","","4300","220000","Manual","Left","Gasoline","Օther color","","Sedan","12.12.2021","autoam 144","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"462","1997","Mercedes-Benz","C","180","180","4500","215000","Manual","Left","Gas","Black","ABS","Sedan","29.06.2022","autoam 145","Mercedes-Benz C 180",NA,NA,NA,NA
+"472","1996","BMW","528","</span>","","4300","205000","Manual","Left","Gas","Black","ABS","Sedan","08.12.2021","autoam 146","BMW 528 </span>",NA,NA,NA,NA
+"482","1992","Mercedes-Benz","S","500","500","4000","250000","Automatic","Left","Gas","Blue","","Sedan","12.06.2021","autoam 147","Mercedes-Benz S 500",NA,NA,NA,NA
+"492","2000","BMW","318","</span>","1.9 cep","4000","250000","Manual","Left","Gasoline","Blue","<span style=""background-color:#000000""></span>Black","Sedan","09.05.2021","autoam 148","BMW 318 </span>",NA,NA,NA,NA
+"502","1997","Mercedes-Benz","230","</span>","","4000","187500","Manual","Left","Gasoline","Silver","","Sedan","04.03.2021","autoam 149","Mercedes-Benz 230 </span>",NA,NA,NA,NA
+"512","1997","Mercedes-Benz","230","</span>","","4000","187500","Manual","Left","Gasoline","Silver","","Sedan","04.03.2021","autoam 150","Mercedes-Benz 230 </span>",NA,NA,NA,NA
+"214","1998","Mercedes-Benz","E","280","280 2.8","4400","270000","Automatic","Left","Gas","Golden","<span style=""background-color:#000000""></span>Black","Sedan","01.02.2021","autoam 151","Mercedes-Benz E 280",NA,NA,NA,NA
+"314","1999","Mercedes-Benz","C","180","180 ՇՏԱՊԲԱԼՈՆ16ԻԺԵԿՏՈՐ","4000","176000","Manual","Left","Gas","Black","1.8","Sedan","25.05.2021","autoam 152","Mercedes-Benz C 180",NA,NA,NA,NA
+"414","1997","Mercedes-Benz","C","180","180","4400","275000","Manual","Left","Gasoline","Black","","Sedan","30.12.2021","autoam 153","Mercedes-Benz C 180",NA,NA,NA,NA
+"54","1999","Mercedes-Benz","E","240","240 mersedes","4350","195000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Sedan","14.09.2020","autoam 154","Mercedes-Benz E 240",NA,NA,NA,NA
+"63","1998","Mercedes-Benz","C","180","180 C 1.8","3950","280000","Manual","Left","Gas","Silver","ABS","Sedan","20.03.2021","autoam 155","Mercedes-Benz C 180",NA,NA,NA,NA
+"73","2000","BMW","320","</span>","","4300","220000","Manual","Left","Gasoline","Օther color","2.0","Sedan","29.11.2021","autoam 156","BMW 320 </span>",NA,NA,NA,NA
+"83","2000","BMW","318","</span>","Hcjkfsfhch","4200","175000","Automatic","Left","Gas","Black","","Sedan","05.09.2021","autoam 157","BMW 318 </span>",NA,NA,NA,NA
+"93","1994","Mercedes-Benz","C","180","180","4500","200000","Manual","Left","Gas","Cherry","<span style=""background-color:#000000""></span>Black","Sedan","28.04.2022","autoam 158","Mercedes-Benz C 180",NA,NA,NA,NA
+"103","1999","Mercedes-Benz","E","240","240","4500","280000","Manual","Left","Gas","Silver","","Sedan","22.05.2022","autoam 159","Mercedes-Benz E 240",NA,NA,NA,NA
+"113","1997","Mercedes-Benz","E","320","320 Minivan","4300","200000","Automatic","Left","Gas","Cherry","<span style=""background-color:#c7c7c7""></span>Gray","Minibus","09.02.2022","autoam 160","Mercedes-Benz E 320",NA,NA,NA,NA
+"123","1996","Mercedes-Benz","C","180","180 ELEGANCE","4200","280000","Manual","Left","Gasoline","Silver","ABS","Sedan","30.03.2022","autoam 161","Mercedes-Benz C 180",NA,NA,NA,NA
+"133","1998","Mercedes-Benz","280","</span>",".","3900","191000","Automatic","Left","Gas","Beige","","Sedan","22.03.2021","autoam 162","Mercedes-Benz 280 </span>",NA,NA,NA,NA
+"143","1999","BMW","528","</span>","","4400","344000","Automatic","Left","Gas","Green","ABS","Sedan","06.05.2022","autoam 163","BMW 528 </span>",NA,NA,NA,NA
+"153","2000","Chrysler","Town","&amp;","&amp;","4000","134720","Semi-automatic","Left","Gasoline","Red","ABS","Wagon","25.02.2022","autoam 164","Chrysler Town &amp;",NA,NA,NA,NA
+"163","1997","Mercedes-Benz","C","200","200","4000","180000","Automatic","Left","Gasoline","Silver","","Sedan","27.11.2020","autoam 165","Mercedes-Benz C 200",NA,NA,NA,NA
+"173","2000","BMW","318","</span>","1.9 prastoy","4000","150000","Manual","Left","Gasoline","Black","","Sedan","26.11.2020","autoam 166","BMW 318 </span>",NA,NA,NA,NA
+"183","1998","Mercedes-Benz","C","180","180","4500","193000","Manual","Left","Gas","Black","ABS","Sedan","01.05.2022","autoam 167","Mercedes-Benz C 180",NA,NA,NA,NA
+"193","1996","Mercedes-Benz","C","180","180 ELEGANCE","4200","323000","Manual","Left","Gasoline","Silver","ABS","Sedan","02.04.2022","autoam 168","Mercedes-Benz C 180",NA,NA,NA,NA
+"203","1997","Mercedes-Benz","240","</span>","","4200","230000","Automatic","Left","Gasoline","Gray","ABS","Sedan","06.10.2021","autoam 169","Mercedes-Benz 240 </span>",NA,NA,NA,NA
+"215","1992","Mercedes-Benz","124","</span>","","4200","295000","Automatic","Left","Gas","Violet","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","28.01.2022","autoam 170","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"223","1985","Mercedes-Benz","S","500","500 Long","4200","10","Automatic","Left","Gas","Black","ABS","Sedan","28.02.2022","autoam 171","Mercedes-Benz S 500",NA,NA,NA,NA
+"233","1998","BMW","320","</span>","","4200","200000","Manual","Left","Gas","White","150","Sedan","26.09.2021","autoam 172","BMW 320 </span>",NA,NA,NA,NA
+"243","1998","Mercedes-Benz","C","180","180","4300","270000","Manual","Left","Gasoline","Silver","<span style=""background-color:#2e56a6""></span>Blue","Sedan","21.04.2022","autoam 173","Mercedes-Benz C 180",NA,NA,NA,NA
+"253","1996","Mercedes-Benz","180","</span>","","4500","285000","Manual","Left","Gas","White","","Sedan","27.06.2022","autoam 174","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"263","1999","BMW","540","</span>","","4200","260000","Automatic","Left","Gas","Silver","","Wagon","26.12.2020","autoam 175","BMW 540 </span>",NA,NA,NA,NA
+"273","1997","Mercedes-Benz","C","180","180","4200","350000","Manual","Left","Gas","Blue","<span style=""background-color:#000000""></span>Black","Sedan","21.12.2020","autoam 176","Mercedes-Benz C 180",NA,NA,NA,NA
+"283","1997","BMW","528","</span>","","4200","135000","Automatic","Left","Gasoline","Silver","","Sedan","05.02.2021","autoam 177","BMW 528 </span>",NA,NA,NA,NA
+"293","1999","Mercedes-Benz","C","200","200 C 200","4200","190000","Manual","Left","Gas","Green","","Sedan","28.12.2020","autoam 178","Mercedes-Benz C 200",NA,NA,NA,NA
+"303","1999","BMW","318","</span>","1.9","4200","225000","Automatic","Left","Gasoline","Silver","","Sedan","05.09.2020","autoam 179","BMW 318 </span>",NA,NA,NA,NA
+"315","2000","BMW","320","</span>","i","4200","328000","Automatic","Left","Gasoline","Blue","<span style=""background-color:#000000""></span>Black","Sedan","30.08.2020","autoam 180","BMW 320 </span>",NA,NA,NA,NA
+"323","2000","BMW","M3","</span>","BMW E46","3800","190000","Manual","Left","Gasoline","Gray","<span style=""background-color:#000000""></span>Black","Sedan","25.04.2021","autoam 181","BMW M3 </span>",NA,NA,NA,NA
+"333","1998","Mercedes-Benz","180","</span>","","3800","196000","Manual","Left","Gasoline","Black","","Sedan","25.03.2021","autoam 182","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"343","1997","Mercedes-Benz","C","180","180 Elegance","3800","210000","Manual","Left","Gasoline","Silver","ABS","Sedan","11.05.2021","autoam 183","Mercedes-Benz C 180",NA,NA,NA,NA
+"353","1998","Mercedes-Benz","C","180","180","֏2000","250000","Manual","Left","Gas","Blue","","Sedan","30.04.2022","autoam 184","Mercedes-Benz C 180",NA,NA,NA,NA
+"363","1994","Mercedes-Benz","C","180","180 Elegance","4500","200000","Manual","Left","Gasoline","Aubergine","ABS","Sedan","02.07.2022","autoam 185","Mercedes-Benz C 180",NA,NA,NA,NA
+"373","1998","Mercedes-Benz","C","180","180","4100","260000","Manual","Left","Gasoline","Silver","ABS","Sedan","04.04.2022","autoam 186","Mercedes-Benz C 180",NA,NA,NA,NA
+"383","1995","Mercedes-Benz","E","200","200","4000","300000","Manual","Left","Gasoline","Silver","ABS","Coupe","25.08.2021","autoam 187","Mercedes-Benz E 200",NA,NA,NA,NA
+"393","1996","Mercedes-Benz","C","180","180","4300","200000","Manual","Left","Gas","Cherry","","Sedan","15.05.2022","autoam 188","Mercedes-Benz C 180",NA,NA,NA,NA
+"403","2000","Volkswagen","Golf","</span>","4","4000","190000","Manual","Left","Gas","Silver","<span style=""background-color:#000000""></span>Black","Wagon","29.06.2022","autoam 189","Volkswagen Golf </span>",NA,NA,NA,NA
+"415","1999","BMW","318","</span>","","3700","148000","Manual","Left","Gasoline","Silver","ABS","Sedan","11.04.2021","autoam 190","BMW 318 </span>",NA,NA,NA,NA
+"423","1995","Mercedes-Benz","C","180","180","3700","200000","Manual","Left","Gasoline","Black","ABS","Sedan","15.04.2021","autoam 191","Mercedes-Benz C 180",NA,NA,NA,NA
+"433","1997","Mercedes-Benz","C","180","180","4000","240000","Manual","Left","Gas","Black","ABS","Sedan","23.07.2021","autoam 192","Mercedes-Benz C 180",NA,NA,NA,NA
+"443","1998","BMW","528","</span>","M5","4000","300","Manual","Left","Gas","Red","ABS","Sedan","06.01.2022","autoam 193","BMW 528 </span>",NA,NA,NA,NA
+"453","1997","Mercedes-Benz","C","180","180","4000","108000","Manual","Left","Gasoline","Silver","ABS","Sedan","26.01.2022","autoam 194","Mercedes-Benz C 180",NA,NA,NA,NA
+"463","1998","Mercedes-Benz","E","200","200 Elegante","4000","190000","Automatic","Left","Gasoline","Green","ABS","Sedan","15.01.2022","autoam 195","Mercedes-Benz E 200",NA,NA,NA,NA
+"473","1997","Mercedes-Benz","180","</span>","","4000","25000","Automatic","Left","Gas","Silver","","Sedan","03.01.2022","autoam 196","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"483","1999","Mercedes-Benz","C","180","180 Classic Selecstion","4000","303205","Manual","Left","Gas","Blue","<span style=""background-color:#000000""></span>Black","Sedan","08.11.2020","autoam 197","Mercedes-Benz C 180",NA,NA,NA,NA
+"493","1996","Mercedes-Benz","C","180","180","4000","301141","Manual","Left","Gas","Silver","1.8","Sedan","21.08.2018","autoam 198","Mercedes-Benz C 180",NA,NA,NA,NA
+"503","1996","Mercedes-Benz","E","230","230 W210 23 SAKARKELI","4000","22000","Manual","Left","Gas","Silver","ABS","Sedan","01.02.2021","autoam 199","Mercedes-Benz E 230",NA,NA,NA,NA
+"513","1996","Mercedes-Benz","C","180","180","4000","170000","Manual","Left","Gasoline","Silver","ABS","Sedan","26.12.2020","autoam 200","Mercedes-Benz C 180",NA,NA,NA,NA
+"216","1997","Mercedes-Benz","E","320","320 3.2","4000","180000","Automatic","Left","Gasoline","Gray","<span style=""background-color:#000000""></span>Black","Sedan","26.12.2020","autoam 201","Mercedes-Benz E 320",NA,NA,NA,NA
+"316","1999","Mercedes-Benz","C","180","180 18","4000","205000","Manual","Left","Gas","Silver","<span style=""background-color:#2e56a6""></span>Blue","Sedan","03.01.2021","autoam 202","Mercedes-Benz C 180",NA,NA,NA,NA
+"416","2000","Jeep","Grand","Cherokee","Cherokee","4000","350000","Automatic","Left","Gas","Blue","","Wagon","06.02.2021","autoam 203","Jeep Grand Cherokee",NA,NA,NA,NA
+"55","1994","Mercedes-Benz","124","</span>","Mercedes Benz E 220","4000","350000","Manual","Left","Gas","Silver","<span style=""background-color:#000000""></span>Black","Sedan","29.08.2020","autoam 204","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"64","1991","Mercedes-Benz","S","500","500","4000","250000","Automatic","Left","Gasoline","Black","","Sedan","15.02.2020","autoam 205","Mercedes-Benz S 500",NA,NA,NA,NA
+"74","1996","Mercedes-Benz","E","230","230","4000","280000","Manual","Left","Gas","Blue","","Sedan","03.01.2021","autoam 206","Mercedes-Benz E 230",NA,NA,NA,NA
+"84","2000","Volkswagen","Golf","</span>","1.4 L 75 HP","4000","115000","Manual","Left","Gasoline","Black","<span style=""background-color:#000000""></span>Black","Hatchback","21.09.2020","autoam 207","Volkswagen Golf </span>",NA,NA,NA,NA
+"94","1999","BMW","316","</span>","","4000","204000","Manual","Left","Gasoline","Gray","","Sedan","09.12.2020","autoam 208","BMW 316 </span>",NA,NA,NA,NA
+"104","1996","Mercedes-Benz","E","280","280 E 280","4000","150000","Automatic","Left","Gas","Silver","","Sedan","28.11.2021","autoam 209","Mercedes-Benz E 280",NA,NA,NA,NA
+"114","1998","Mercedes-Benz","E","200","200","4000","280000","Manual","Left","Gas","Blue","ABS","Sedan","17.10.2021","autoam 210","Mercedes-Benz E 200",NA,NA,NA,NA
+"124","1999","Mercedes-Benz","C","180","180","4000","270000","Manual","Left","Gas","Green","ABS","Wagon","25.11.2021","autoam 211","Mercedes-Benz C 180",NA,NA,NA,NA
+"134","1997","Mercedes-Benz","C","180","180","4000","290000","Automatic","Left","Gasoline","White","","Sedan","31.10.2021","autoam 212","Mercedes-Benz C 180",NA,NA,NA,NA
+"144","1995","Mercedes-Benz","E","320","320 W124","4000","370000","Automatic","Left","Gas","Red","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","22.11.2021","autoam 213","Mercedes-Benz E 320",NA,NA,NA,NA
+"154","1996","Mercedes-Benz","E","200","200","3600","300","Automatic","Left","Gas","Black","136","Sedan","27.02.2021","autoam 214","Mercedes-Benz E 200",NA,NA,NA,NA
+"164","1997","BMW","520","</span>","2 m52","3600","160000","Manual","Left","Gasoline","Օther color","2.0","Sedan","05.06.2021","autoam 215","BMW 520 </span>",NA,NA,NA,NA
+"174","1996","Mercedes-Benz","C","180","180 1.8","3600","250000","","","",NA,"","","","autoam 216","Mercedes-Benz C 180",NA,NA,NA,NA
+"184","1997","Mercedes-Benz","C","180","180","3950","275000","Manual","Left","Gas","Gray","","Sedan","20.12.2021","autoam 217","Mercedes-Benz C 180",NA,NA,NA,NA
+"194","1987","Mercedes-Benz","C","180","180","3950","210000","Manual","Left","Gas","Cherry","","Sedan","01.12.2021","autoam 218","Mercedes-Benz C 180",NA,NA,NA,NA
+"204","1998","Volkswagen","Golf","</span>","","4200","194000","Manual","Left","Gas","Silver","<span style=""background-color:#c7c7c7""></span>Gray","Hatchback","19.05.2022","autoam 219","Volkswagen Golf </span>",NA,NA,NA,NA
+"217","1995","Mercedes-Benz","C","180","180","3950","330000","Manual","Left","Gasoline","Gray","ABS","Sedan","22.02.2022","autoam 220","Mercedes-Benz C 180",NA,NA,NA,NA
+"224","1999","Mercedes-Benz","C","180","180 1.8","3900","190000","Manual","Left","Gas","Blue","ABS","Sedan","19.01.2021","autoam 221","Mercedes-Benz C 180",NA,NA,NA,NA
+"234","1998","Mercedes-Benz","E","280","280","3900","330000","Automatic","Left","Gasoline","Blue","ABS","Sedan","05.09.2020","autoam 222","Mercedes-Benz E 280",NA,NA,NA,NA
+"244","1996","Mercedes-Benz","C","180","180","3900","270000","Manual","Left","Gas","Silver","","Sedan","14.08.2020","autoam 223","Mercedes-Benz C 180",NA,NA,NA,NA
+"254","1995","Mercedes-Benz","C","180","180","3900","220000","Automatic","Left","Gas","White","ABS","Sedan","17.01.2021","autoam 224","Mercedes-Benz C 180",NA,NA,NA,NA
+"264","1999","Mercedes-Benz","C","180","180 Classic Selection","3900","300000","Manual","Left","Gas","Blue","<span style=""background-color:#000000""></span>Black","Sedan","22.09.2020","autoam 225","Mercedes-Benz C 180",NA,NA,NA,NA
+"274","1998","BMW","523","</span>","Люкс","3900","375000","Automatic","Left","Gas","Blue","2.3","Sedan","01.09.2021","autoam 226","BMW 523 </span>",NA,NA,NA,NA
+"284","1996","Mercedes-Benz","C","180","180 ԳԱԶ 14ԻԺԵԿՏՈՐ","4400","245000","Automatic","Left","Gas","Blue","1.8","Sedan","21.06.2022","autoam 227","Mercedes-Benz C 180",NA,NA,NA,NA
+"294","1997","Mercedes-Benz","230","</span>","Mercedes C230","3500","305000","Manual","Left","Gas","Blue","2.3","Sedan","23.02.2021","autoam 228","Mercedes-Benz 230 </span>",NA,NA,NA,NA
+"304","2000","Mercedes-Benz","200","</span>","","3500","390000","Manual","Left","Gasoline","Silver","ABS","Wagon","20.02.2021","autoam 229","Mercedes-Benz 200 </span>",NA,NA,NA,NA
+"317","1995","Mercedes-Benz","124","</span>","2.2 E-class","3500","111","Manual","Left","Gasoline","Gray","","Sedan","23.05.2021","autoam 230","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"324","1997","Mercedes-Benz","C","180","180","3500","195000","Manual","Left","Gas","Green","ABS","Sedan","16.03.2021","autoam 231","Mercedes-Benz C 180",NA,NA,NA,NA
+"334","1997","Mercedes-Benz","C","180","180","3500","240000","Automatic","Left","Gasoline","Aubergine","","Sedan","04.04.2021","autoam 232","Mercedes-Benz C 180",NA,NA,NA,NA
+"344","1995","Mercedes-Benz","C","220","220","4000","370000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Sedan","17.02.2022","autoam 233","Mercedes-Benz C 220",NA,NA,NA,NA
+"354","1996","Mercedes-Benz","C","180","180","3800","190000","Manual","Left","Gas","Silver","ABS","Sedan","21.01.2022","autoam 234","Mercedes-Benz C 180",NA,NA,NA,NA
+"364","1997","BMW","528","</span>","","3700","329000","Manual","Left","Gasoline","Black","","Sedan","03.09.2021","autoam 235","BMW 528 </span>",NA,NA,NA,NA
+"374","1998","Mercedes-Benz","C","180","180 Sharlot","3800","191600","Manual","Left","Gas","Red","<span style=""background-color:#000000""></span>Black","Sedan","08.01.2021","autoam 236","Mercedes-Benz C 180",NA,NA,NA,NA
+"384","1998","Mercedes-Benz","C","180","180","3800","160000","Manual","Left","Gasoline","Blue","ABS","Sedan","27.01.2021","autoam 237","Mercedes-Benz C 180",NA,NA,NA,NA
+"394","1999","Mercedes-Benz","C","180","180","3800","186000","Manual","Left","Gas","Black","ABS","Sedan","17.11.2020","autoam 238","Mercedes-Benz C 180",NA,NA,NA,NA
+"404","2000","BMW","320","</span>","","3800","285000","Manual","Left","Gasoline","Blue","","Sedan","14.01.2021","autoam 239","BMW 320 </span>",NA,NA,NA,NA
+"417","2000","Volkswagen","Golf","</span>","2.0","3800","210000","Automatic","Left","Gasoline","Black","<span style=""background-color:#000000""></span>Black","Hatchback","29.06.2022","autoam 240","Volkswagen Golf </span>",NA,NA,NA,NA
+"424","1996","Ford","Mercury","</span>","4x4ԳԱԶ 24 ԻԺԵԿՏՈՐ SUV","3500","157000","Automatic","Left","Gas","Cherry","5.0","Truck","08.02.2021","autoam 241","Ford Mercury </span>",NA,NA,NA,NA
+"434","1999","Jeep","Cherokee","</span>","SUV","3650","190000","Automatic","Left","Gas","Brown","","Truck","08.04.2021","autoam 242","Jeep Cherokee </span>",NA,NA,NA,NA
+"444","1997","Mercedes-Benz","E","230","230","3800","25000","Manual","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","16.11.2021","autoam 243","Mercedes-Benz E 230",NA,NA,NA,NA
+"454","1995","Mercedes-Benz","C","180","180","֏1800","250000","Manual","Left","Gas","Black","ABS","Sedan","01.09.2021","autoam 244","Mercedes-Benz C 180",NA,NA,NA,NA
+"464","1996","Mercedes-Benz","C","180","180 Exprint","3800","999999","Manual","Left","Gas","Black","ABS","Sedan","18.04.2022","autoam 245","Mercedes-Benz C 180",NA,NA,NA,NA
+"474","1998","Mercedes-Benz","C","200","200 Mercedes c200 1998","3700","245000","Manual","Left","Gas","Black","","Sedan","23.09.2021","autoam 246","Mercedes-Benz C 200",NA,NA,NA,NA
+"484","1996","Volkswagen","Vento","</span>","","4000","139000","Automatic","Left","Gas","Blue","ABS","Sedan","29.05.2022","autoam 247","Volkswagen Vento </span>",NA,NA,NA,NA
+"494","1995","Mercedes-Benz","C","180","180 Elengance","3700","240000","Automatic","Left","Gasoline","Blue","<span style=""background-color:#2e56a6""></span>Blue","Sedan","13.02.2022","autoam 248","Mercedes-Benz C 180",NA,NA,NA,NA
+"504","1995","Mercedes-Benz","C","180","180","3700","252000","Manual","Left","Gas","Silver","ABS","Sedan","22.01.2021","autoam 249","Mercedes-Benz C 180",NA,NA,NA,NA
+"514","1994","Mercedes-Benz","C","220","220","3700","170000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#2e56a6""></span>Blue","Sedan","10.05.2021","autoam 250","Mercedes-Benz C 220",NA,NA,NA,NA
+"218","1997","Mercedes-Benz","230","</span>","","3700","259000","Manual","Left","Gasoline","Silver","ABS","Sedan","28.01.2021","autoam 251","Mercedes-Benz 230 </span>",NA,NA,NA,NA
+"318","1995","Mercedes-Benz","C","180","180","3700","225000","Manual","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","17.11.2020","autoam 252","Mercedes-Benz C 180",NA,NA,NA,NA
+"418","1998","Mercedes-Benz","C","180","180 C 180 espirit","3700","195000","Manual","Left","Gas","Blue","ABS","Sedan","26.01.2021","autoam 253","Mercedes-Benz C 180",NA,NA,NA,NA
+"56","1998","BMW","318","</span>","Bmw 3","3600","280","Manual","Left","Gas","Silver","ABS","Sedan","01.09.2021","autoam 254","BMW 318 </span>",NA,NA,NA,NA
+"65","1997","Mercedes-Benz","C","180","180 Shtap","4300","220000","Manual","Left","Gas","Silver","","Sedan","30.06.2022","autoam 255","Mercedes-Benz C 180",NA,NA,NA,NA
+"75","1992","BMW","520","</span>","","3900","340000","Manual","Left","Gas","Green","<span style=""background-color:#592f00""></span>Brown","Sedan","30.06.2022","autoam 256","BMW 520 </span>",NA,NA,NA,NA
+"85","1998","Mercedes-Benz","E","200","200","3500","280000","Manual","Left","Gas","Օther color","<span style=""background-color:#000000""></span>Black","Sedan","10.09.2020","autoam 257","Mercedes-Benz E 200",NA,NA,NA,NA
+"95","1996","Mercedes-Benz","180","</span>","","3500","350000","Manual","Left","Gas","Silver","","Sedan","09.12.2021","autoam 258","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"105","1997","Mercedes-Benz","230","</span>","","3600","230000","Manual","Left","Gasoline","Cherry","ABS","Sedan","29.10.2020","autoam 259","Mercedes-Benz 230 </span>",NA,NA,NA,NA
+"115","1999","BMW","320","</span>","","3600","203000","Manual","Left","Gasoline","Silver","ABS","Sedan","13.09.2020","autoam 260","BMW 320 </span>",NA,NA,NA,NA
+"125","2000","Mercedes-Benz","180","</span>","","3500","230000","Manual","Left","Gas","Blue","ABS","Sedan","05.09.2021","autoam 261","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"135","1994","Mercedes-Benz","C","180","180","3500","270000","Manual","Left","Gas","Black","","Sedan","12.09.2021","autoam 262","Mercedes-Benz C 180",NA,NA,NA,NA
+"145","1999","Volkswagen","Golf","</span>","1.6 SR","3600","147000","Manual","Left","Gasoline","Silver","<span style=""background-color:#c7c7c7""></span>Gray","Hatchback","06.06.2021","autoam 263","Volkswagen Golf </span>",NA,NA,NA,NA
+"155","2000","Volkswagen","New","Beetle","Beetle","3500","123000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Hatchback","04.12.2021","autoam 264","Volkswagen New Beetle",NA,NA,NA,NA
+"165","1999","BMW","316","</span>","","3900","380000","Manual","Left","Gas","Silver","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","30.06.2022","autoam 265","BMW 316 </span>",NA,NA,NA,NA
+"175","1994","Mercedes-Benz","C","180","180 mardatar","3500","280000","Manual","Left","Gas","White","","Sedan","30.03.2022","autoam 266","Mercedes-Benz C 180",NA,NA,NA,NA
+"185","1996","Mercedes-Benz","C","180","180","3450","290000","Manual","Left","Gas","Aubergine","1.8","Sedan","04.07.2021","autoam 267","Mercedes-Benz C 180",NA,NA,NA,NA
+"195","1996","Mercedes-Benz","C","180","180 C180","3550","20","Automatic","Left","Gas","Green","ABS","Sedan","25.09.2020","autoam 268","Mercedes-Benz C 180",NA,NA,NA,NA
+"205","1998","Mercedes-Benz","E","200","200 M","4000","177000","Manual","Left","Gasoline","Silver","ABS","Sedan","19.06.2022","autoam 269","Mercedes-Benz E 200",NA,NA,NA,NA
+"219","1993","Mercedes-Benz","</span>","<div","<div","֏1700","400035","Manual","Left","Gasoline","Black","","Sedan","26.12.2020","autoam 270","Mercedes-Benz </span> <div",NA,NA,NA,NA
+"225","1996","Mercedes-Benz","C","180","180 Mercedes-Benz C180 JAPA","֏1700","123456","Manual","Left","Gas","Cherry","","Sedan","23.01.2021","autoam 271","Mercedes-Benz C 180",NA,NA,NA,NA
+"235","1997","Mercedes-Benz","C","180","180 Shat tarm","3500","270000","Manual","Left","Gas","Cherry","ABS","Sedan","24.09.2021","autoam 272","Mercedes-Benz C 180",NA,NA,NA,NA
+"245","1992","Mercedes-Benz","124","</span>","230e","3200","327000","Manual","Left","Gasoline","Black","ABS","Sedan","11.04.2021","autoam 273","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"255","1996","BMW","320","</span>","","3700","17800","Automatic","Left","Gas","Silver","","Sedan","14.05.2022","autoam 274","BMW 320 </span>",NA,NA,NA,NA
+"265","1998","Volkswagen","Golf","</span>","Golf 3","3500","202000","Manual","Left","Gasoline","Silver","ABS","Hatchback","19.03.2022","autoam 275","Volkswagen Golf </span>",NA,NA,NA,NA
+"275","1997","BMW","728","</span>","","3500","350000","Automatic","Left","Gas","Blue","<span style=""background-color:#000000""></span>Black","Sedan","22.12.2020","autoam 276","BMW 728 </span>",NA,NA,NA,NA
+"285","1995","Mercedes-Benz","C","220","220 W202","3500","350000","Automatic","Left","Gasoline","Black","ABS","Sedan","22.11.2020","autoam 277","Mercedes-Benz C 220",NA,NA,NA,NA
+"295","1996","Mercedes-Benz","C","180","180","3500","125000","Manual","Left","Gasoline","Blue","<span style=""background-color:#2e56a6""></span>Blue","Sedan","20.09.2020","autoam 278","Mercedes-Benz C 180",NA,NA,NA,NA
+"305","1997","BMW","318","</span>","Ar469a140","3500","100","Manual","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","11.11.2020","autoam 279","BMW 318 </span>",NA,NA,NA,NA
+"319","1999","BMW","318","</span>","1.9 cepov mator","3500","271000","Manual","Left","Gas","Cherry","","Sedan","09.08.2020","autoam 280","BMW 318 </span>",NA,NA,NA,NA
+"325","1996","Mercedes-Benz","C","180","180","3500","260000","Manual","Left","Gas","White","<span style=""background-color:#000000""></span>Black","Sedan","30.12.2020","autoam 281","Mercedes-Benz C 180",NA,NA,NA,NA
+"335","1999","Mercedes-Benz","180","</span>","Sharlot","3500","180000","Manual","Left","Gasoline","Blue","","Sedan","04.01.2021","autoam 282","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"345","1998","BMW","523","</span>","","3500","170000","Automatic","Left","Gasoline","Gray","ABS","Hatchback","10.03.2020","autoam 283","BMW 523 </span>",NA,NA,NA,NA
+"355","1998","Mercedes-Benz","C","180","180","3500","300000","Automatic","Left","Gas","Red","ABS","Sedan","29.04.2021","autoam 284","Mercedes-Benz C 180",NA,NA,NA,NA
+"365","1997","Mercedes-Benz","C","180","180 C180","3500","230000","Manual","Left","Gas","Silver","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","22.01.2021","autoam 285","Mercedes-Benz C 180",NA,NA,NA,NA
+"375","1995","Mercedes-Benz","C","280","280 2.8","3500","170000","Manual","Left","Gasoline","Օther color","","Sedan","20.09.2020","autoam 286","Mercedes-Benz C 280",NA,NA,NA,NA
+"385","1996","Mercedes-Benz","C","180","180 Mersedes benz c180","3400","5846","Manual","Left","Gas","Silver","1.8","Sedan","27.05.2021","autoam 287","Mercedes-Benz C 180",NA,NA,NA,NA
+"395","1997","Mercedes-Benz","C","180","180","3500","200","Manual","Left","Gas","Silver","","Sedan","22.02.2022","autoam 288","Mercedes-Benz C 180",NA,NA,NA,NA
+"405","1997","Mercedes-Benz","E","200","200","3500","380000","Manual","Left","Gas","Silver","2.0","Sedan","18.02.2022","autoam 289","Mercedes-Benz E 200",NA,NA,NA,NA
+"419","1996","Volkswagen","Vento","</span>","","3500","190000","Manual","Left","Gas","Aubergine","<span style=""background-color:#000000""></span>Black","Sedan","06.11.2021","autoam 290","Volkswagen Vento </span>",NA,NA,NA,NA
+"425","1998","Mercedes-Benz","C","220","220","3500","310","Manual","Left","Gasoline","Red","","Sedan","07.11.2021","autoam 291","Mercedes-Benz C 220",NA,NA,NA,NA
+"435","1995","Mercedes-Benz","C","180","180 1.8","3500","250000","Manual","Left","Gas","Silver","ABS","Hatchback","24.11.2020","autoam 292","Mercedes-Benz C 180",NA,NA,NA,NA
+"445","1993","Mercedes-Benz","E","230","230 E230 w124","3500","300000","Manual","Left","Gas","Black","","Sedan","23.11.2021","autoam 293","Mercedes-Benz E 230",NA,NA,NA,NA
+"455","1995","BMW","328","</span>","2.8 mator 193dzi","3300","350000","Automatic","Left","Gasoline","Silver","","Sedan","28.02.2022","autoam 294","BMW 328 </span>",NA,NA,NA,NA
+"465","1991","Mercedes-Benz","124","</span>","2.3","3400","260000","Manual","Left","Gas","Gray","ABS","Sedan","28.06.2022","autoam 295","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"475","1996","Mercedes-Benz","E","200","200","3800","364000","Manual","Left","Gas","Օther color","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","27.06.2022","autoam 296","Mercedes-Benz E 200",NA,NA,NA,NA
+"485","1995","Mercedes-Benz","180","</span>","","֏1600","180000","Manual","Left","Gasoline","Black","","Sedan","23.04.2022","autoam 297","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"495","1996","Mercedes-Benz","C","180","180 1.8","3300","250000","Manual","Left","Gasoline","Gray","ABS","Sedan","01.10.2021","autoam 298","Mercedes-Benz C 180",NA,NA,NA,NA
+"505","1995","Mercedes-Benz","C","180","180","3000","200","Manual","Left","Gas","Silver","","Sedan","20.04.2021","autoam 299","Mercedes-Benz C 180",NA,NA,NA,NA
+"515","1996","Mercedes-Benz","C","180","180 1.8","3300","340000","Manual","Left","Gas","Silver","ABS","Sedan","27.12.2020","autoam 300","Mercedes-Benz C 180",NA,NA,NA,NA
+"220","1996","Mercedes-Benz","E","230","230 Classic 2.3","3300","280000","Manual","Left","Gas","Blue","ABS","Sedan","24.12.2020","autoam 301","Mercedes-Benz E 230",NA,NA,NA,NA
+"320","1994","Mercedes-Benz","C","180","180","3300","250000","Automatic","Left","Gas","Silver","","Sedan","20.02.2022","autoam 302","Mercedes-Benz C 180",NA,NA,NA,NA
+"420","2000","Volkswagen","Golf","</span>","","3200","230000","Manual","Left","Gas","Silver","2.0","Hatchback","02.02.2022","autoam 303","Volkswagen Golf </span>",NA,NA,NA,NA
+"57","2000","Volkswagen","Golf","</span>","","3200","200000","Automatic","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Hatchback","27.11.2021","autoam 304","Volkswagen Golf </span>",NA,NA,NA,NA
+"66","2000","Volkswagen","Golf","</span>","","3200","200000","Automatic","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Hatchback","21.12.2021","autoam 305","Volkswagen Golf </span>",NA,NA,NA,NA
+"76","1995","Mercedes-Benz","180","</span>","","3200","250000","Manual","Left","Gasoline","White","ABS","Sedan","15.04.2021","autoam 306","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"86","1993","Mercedes-Benz","C","180","180","3200","250000","Automatic","Left","Gas","Օther color","","Sedan","10.02.2022","autoam 307","Mercedes-Benz C 180",NA,NA,NA,NA
+"96","2000","Volkswagen","Passat","</span>","","2900","310000","Manual","Left","Gas","Silver","ABS","Wagon","09.06.2021","autoam 308","Volkswagen Passat </span>",NA,NA,NA,NA
+"106","1997","Mercedes-Benz","C","180","180 C 180","֏1500","200000","Manual","Left","Gas","Blue","RWD","Sedan","01.12.2020","autoam 309","Mercedes-Benz C 180",NA,NA,NA,NA
+"116","1995","Mercedes-Benz","C","180","180","3400","350000","Manual","Left","Gasoline","Gray","","Sedan","23.06.2022","autoam 310","Mercedes-Benz C 180",NA,NA,NA,NA
+"126","2000","Ford","Focus","</span>","01015","3500","150000","Automatic","Left","Gasoline","Silver","<span style=""background-color:#000000""></span>Black","Sedan","08.06.2022","autoam 311","Ford Focus </span>",NA,NA,NA,NA
+"136","1997","BMW","318","</span>","","3100","20000","Manual","Left","Gasoline","Black","ABS","Sedan","02.12.2020","autoam 312","BMW 318 </span>",NA,NA,NA,NA
+"146","1999","Volkswagen","Passat","</span>","B5","3300","252625","Manual","Left","Gasoline","Green","<span style=""background-color:#bababa""></span>Other","Sedan","31.05.2022","autoam 313","Volkswagen Passat </span>",NA,NA,NA,NA
+"156","1997","BMW","525","</span>","","3000","158","Automatic","Left","Gasoline","Green","","Sedan","06.08.2021","autoam 314","BMW 525 </span>",NA,NA,NA,NA
+"166","1998","Volkswagen","Bora","</span>","1.6","3000","300000","Manual","Left","Gas","Silver","ABS","Sedan","02.12.2021","autoam 315","Volkswagen Bora </span>",NA,NA,NA,NA
+"176","1994","Honda","Civic","</span>","EG3","3000","240000","Manual","Left","Gasoline","Blue","<span style=""background-color:#c7c7c7""></span>Gray","Coupe","21.01.2022","autoam 316","Honda Civic </span>",NA,NA,NA,NA
+"186","1997","Mercedes-Benz","E","200","200","3300","380000","Manual","Left","Gas","Silver","2.0","Sedan","07.06.2022","autoam 317","Mercedes-Benz E 200",NA,NA,NA,NA
+"196","2000","Renault","Logan","</span>","","3000","280000","Manual","Left","Gas","Blue","","Sedan","15.01.2022","autoam 318","Renault Logan </span>",NA,NA,NA,NA
+"206","1997","Mercedes-Benz","E","200","200","3000","300000","Automatic","Left","Gas","Golden","","Sedan","09.09.2020","autoam 319","Mercedes-Benz E 200",NA,NA,NA,NA
+"2110","1999","Mercedes-Benz","A","190","190 1.9 spec","3000","230000","Automatic","Left","Gasoline","Blue","","Hatchback","18.11.2020","autoam 320","Mercedes-Benz A 190",NA,NA,NA,NA
+"226","1998","BMW","528","</span>","","3000","20000","Automatic","Left","Gas","Blue","ABS","Sedan","11.05.2022","autoam 321","BMW 528 </span>",NA,NA,NA,NA
+"236","2000","Volkswagen","Passat","</span>","1.8 T","3000","310000","Manual","Left","Gas","Silver","<span style=""background-color:#000000""></span>Black","Sedan","29.06.2022","autoam 322","Volkswagen Passat </span>",NA,NA,NA,NA
+"246","1998","Volkswagen","Golf","</span>","1’6","3000","120000","Manual","Left","Gasoline","White","ABS","Hatchback","02.11.2021","autoam 323","Volkswagen Golf </span>",NA,NA,NA,NA
+"256","1995","Mercedes-Benz","E","200","200 W124","2700","300000","Manual","Left","Gasoline","Gray","<span style=""background-color:#000000""></span>Black","Sedan","06.04.2021","autoam 324","Mercedes-Benz E 200",NA,NA,NA,NA
+"266","2000","Volkswagen","Caddy","</span>","1.4 vvt","2900","287000","Manual","Left","Gas","Silver","","Van","21.09.2020","autoam 325","Volkswagen Caddy </span>",NA,NA,NA,NA
+"276","1994","Mercedes-Benz","C","180","180","2900","340000","Manual","Left","Gas","Silver","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","21.09.2020","autoam 326","Mercedes-Benz C 180",NA,NA,NA,NA
+"286","1998","Volkswagen","Golf","</span>","","3400","330000","Manual","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Hatchback","01.07.2022","autoam 327","Volkswagen Golf </span>",NA,NA,NA,NA
+"296","1995","Mercedes-Benz","E","200","200 1.6 գազ","2900","325000","Manual","Left","Gas","Beige","<span style=""background-color:#ccb486""></span>Beige","Sedan","05.02.2022","autoam 328","Mercedes-Benz E 200",NA,NA,NA,NA
+"306","1996","Volkswagen","Vento","</span>","","2800","169000","Automatic","Left","Gas","Cherry","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","22.12.2021","autoam 329","Volkswagen Vento </span>",NA,NA,NA,NA
+"3110","1996","Volkswagen","Vento","</span>","","2800","190000","Manual","Left","Gasoline","Green","","Sedan","20.01.2022","autoam 330","Volkswagen Vento </span>",NA,NA,NA,NA
+"326","1995","Mercedes-Benz","E","280","280 2.8","2800","450","Manual","Left","Gas","Black","","Sedan","08.01.2022","autoam 331","Mercedes-Benz E 280",NA,NA,NA,NA
+"336","2000","Volkswagen","Passat","</span>","2.8L","2800","104000","Automatic","Left","Gasoline","Silver","ABS","Sedan","05.09.2020","autoam 332","Volkswagen Passat </span>",NA,NA,NA,NA
+"346","1998","Fiat","Brava","</span>","","2800","198000","Manual","Left","Gasoline","Golden","","Hatchback","21.06.2022","autoam 333","Fiat Brava </span>",NA,NA,NA,NA
+"356","1990","BMW","525","</span>","","2800","280000","Manual","Left","Gasoline","Black","ABS","Sedan","04.11.2021","autoam 334","BMW 525 </span>",NA,NA,NA,NA
+"366","1996","Hyundai","H","100","100 Minivan","2800","1000","Manual","Left","Diesel","Cherry","","Minibus","08.01.2022","autoam 335","Hyundai H 100",NA,NA,NA,NA
+"376","1996","Mercedes-Benz","C","180","180 W202","2500","357000","Automatic","Left","Gas","Green","","Sedan","15.05.2021","autoam 336","Mercedes-Benz C 180",NA,NA,NA,NA
+"386","1992","BMW","525","</span>","","2750","300000","Manual","Left","Gasoline","Silver","2.5","Sedan","29.01.2021","autoam 337","BMW 525 </span>",NA,NA,NA,NA
+"396","1997","BMW","318","</span>","Sport","2500","250000","Manual","Left","Gasoline","Black","","Sedan","20.06.2021","autoam 338","BMW 318 </span>",NA,NA,NA,NA
+"406","1994","BMW","318","</span>","","3200","330000","Manual","Left","Gasoline","Black","ABS","Sedan","09.06.2022","autoam 339","BMW 318 </span>",NA,NA,NA,NA
+"4110","1996","Volkswagen","Passat","</span>","","2700","180000","Manual","Left","Gasoline","Black","ABS","Sedan","14.12.2020","autoam 340","Volkswagen Passat </span>",NA,NA,NA,NA
+"426","1996","Volkswagen","Vento","</span>","18","2700","283000","Manual","Left","Gas","Silver","","Sedan","04.01.2021","autoam 341","Volkswagen Vento </span>",NA,NA,NA,NA
+"436","1996","Mercedes-Benz","180","</span>","1.8 matror","2700","2400","Manual","Left","Gas","Gray","ABS","Sedan","29.11.2020","autoam 342","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"446","1993","BMW","525","</span>","2.5","2700","300000","Automatic","Left","Gas","Cherry","ABS","Sedan","16.02.2021","autoam 343","BMW 525 </span>",NA,NA,NA,NA
+"456","1998","BMW","520","</span>","E39","2700","350000","Manual","Left","Gas","Cherry","ABS","Sedan","14.12.2020","autoam 344","BMW 520 </span>",NA,NA,NA,NA
+"466","1992","BMW","525","</span>","2.5 gaz benzin","2700","25000","Automatic","Left","Gas","Cherry","ABS","Sedan","24.11.2020","autoam 345","BMW 525 </span>",NA,NA,NA,NA
+"476","1996","Volkswagen","Passat","</span>","","2700","190000","Manual","Left","Gasoline","Black","ABS","Sedan","14.12.2020","autoam 346","Volkswagen Passat </span>",NA,NA,NA,NA
+"486","1994","Mercedes-Benz","C","180","180","2700","218000","Manual","Left","Gasoline","Silver","ABS","Sedan","10.01.2021","autoam 347","Mercedes-Benz C 180",NA,NA,NA,NA
+"496","1999","Mercedes-Benz","190","</span>","","2700","210000","Manual","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","08.05.2022","autoam 348","Mercedes-Benz 190 </span>",NA,NA,NA,NA
+"506","2000","Volkswagen","Golf","</span>","MK4","3000","300","Manual","Left","Gas","Gray","","Hatchback","16.06.2022","autoam 349","Volkswagen Golf </span>",NA,NA,NA,NA
+"516","1998","Volkswagen","Golf","</span>","","2700","170000","Manual","Left","Gasoline","Silver","","Hatchback","02.05.2022","autoam 350","Volkswagen Golf </span>",NA,NA,NA,NA
+"227","1999","Volkswagen","Bora","</span>","","2600","190000","Automatic","Left","Gasoline","Gray","<span style=""background-color:#592f00""></span>Brown","Sedan","08.01.2021","autoam 351","Volkswagen Bora </span>",NA,NA,NA,NA
+"327","1995","Volkswagen","Golf","</span>","","2600","211000","Manual","Left","Gas","Silver","","Hatchback","12.12.2021","autoam 352","Volkswagen Golf </span>",NA,NA,NA,NA
+"427","1998","Volkswagen","Golf","</span>","","2500","200000","Automatic","Left","Gas","Silver","ABS","Hatchback","10.07.2021","autoam 353","Volkswagen Golf </span>",NA,NA,NA,NA
+"58","1992","BMW","520","</span>","","2500","350000","Manual","Left","Gas","Silver","Heated Mirrors","Sedan","28.01.2022","autoam 354","BMW 520 </span>",NA,NA,NA,NA
+"67","1991","Mercedes-Benz","190","</span>","","2500","41219","Manual","Left","Gasoline","Gray","<span style=""background-color:#000000""></span>Black","Sedan","28.07.2021","autoam 355","Mercedes-Benz 190 </span>",NA,NA,NA,NA
+"77","1993","Volkswagen","Golf","</span>","","2500","190000","Manual","Left","Gas","Sky-blue","","Hatchback","08.02.2022","autoam 356","Volkswagen Golf </span>",NA,NA,NA,NA
+"87","1996","BMW","518","</span>","","2500","200000","Manual","Left","Gas","Gray","ABS","Sedan","16.05.2019","autoam 357","BMW 518 </span>",NA,NA,NA,NA
+"97","1992","Mercedes-Benz","124","</span>","","2500","124","Manual","Left","Gas","Silver","<span style=""background-color:#000000""></span>Black","Sedan","27.01.2021","autoam 358","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"107","1994","BMW","316","</span>","","2500","300000","Manual","Left","Gas","Black","<span style=""background-color:#000000""></span>Black","Sedan","16.12.2020","autoam 359","BMW 316 </span>",NA,NA,NA,NA
+"117","1998","Volkswagen","Passat","</span>","1.8T","2500","254000","Manual","Left","Gas","Blue","ABS","Sedan","27.01.2021","autoam 360","Volkswagen Passat </span>",NA,NA,NA,NA
+"127","1993","Mercedes-Benz","180","</span>","2.2","2500","500000","Manual","Left","Gas","Black","","Sedan","11.01.2021","autoam 361","Mercedes-Benz 180 </span>",NA,NA,NA,NA
+"137","1996","Nissan","Almera","</span>","","2800","223000","Manual","Left","Gas","Green","","Sedan","13.06.2022","autoam 362","Nissan Almera </span>",NA,NA,NA,NA
+"147","1993","Ford","Mondeo","</span>","Машина находится в идеальном сос","2450","125346","Manual","Left","Gasoline","Green","Purchased from a dealer","Hatchback","29.05.2022","autoam 363","Ford Mondeo </span>",NA,NA,NA,NA
+"157","1995","BMW","318","</span>","1.8","2400","225000","Manual","Left","Gas","Cherry","<span style=""background-color:#000000""></span>Black","Sedan","17.12.2020","autoam 364","BMW 318 </span>",NA,NA,NA,NA
+"167","1990","Mercedes-Benz","124","</span>","","2400","200000","Manual","Left","Gas","Blue","","Sedan","08.02.2021","autoam 365","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"177","1996","Mercedes-Benz","280","</span>","","2400","350000","Manual","Left","Gas","Black","","Sedan","14.04.2021","autoam 366","Mercedes-Benz 280 </span>",NA,NA,NA,NA
+"187","1999","Mercedes-Benz","A","160","160","2700","100000","Automatic","Left","Gas","White","","Sedan","16.06.2022","autoam 367","Mercedes-Benz A 160",NA,NA,NA,NA
+"197","1991","Volkswagen","Golf","</span>","","2500","180000","Manual","Left","Gasoline","Red","<span style=""background-color:#000000""></span>Black","Hatchback","17.05.2022","autoam 368","Volkswagen Golf </span>",NA,NA,NA,NA
+"207","1993","Volkswagen","Vento","</span>","","2300","230000","Manual","Left","Gas","Red","","Sedan","14.02.2022","autoam 369","Volkswagen Vento </span>",NA,NA,NA,NA
+"2111","1993","BMW","318","</span>","","֏1100","300000","Manual","Left","Gasoline","Black","ABS","Sedan","23.09.2020","autoam 370","BMW 318 </span>",NA,NA,NA,NA
+"228","1991","Mercedes-Benz","124","</span>","230E","2300","450000","Manual","Left","Gas","Silver","Electric Mirrors","Sedan","21.10.2021","autoam 371","Mercedes-Benz 124 </span>",NA,NA,NA,NA
+"237","1997","Volkswagen","Vento","</span>","1997","2200","662000","Manual","Left","Gas","Green","<span style=""background-color:#c7c7c7""></span>Gray","Sedan","23.03.2022","autoam 372","Volkswagen Vento </span>",NA,NA,NA,NA
+"247","1998","Ford","Courier","</span>","","2000","200000","Manual","Left","Gas","White","1.6","Wagon","19.01.2022","autoam 373","Ford Courier </span>",NA,NA,NA,NA
+"257","1996","Volkswagen","Golf","</span>","","1800","40000","Manual","Left","Gas","Black","","Coupe","04.02.2021","autoam 374","Volkswagen Golf </span>",NA,NA,NA,NA
+"267","1997","Volkswagen","Vento","</span>","","2000","164000","Manual","Left","Gas","Blue","","Sedan","01.07.2022","autoam 375","Volkswagen Vento </span>",NA,NA,NA,NA
+"277","1993","Volkswagen","Golf","</span>","1.4","1600","67000","Manual","Left","Gas","Sky-blue","<span style=""background-color:#000000""></span>Black","Hatchback","10.03.2021","autoam 376","Volkswagen Golf </span>",NA,NA,NA,NA
+"287","1991","Volkswagen","Golf","</span>","","1600","300000","Manual","Left","Gas","Red","","Coupe","05.02.2021","autoam 377","Volkswagen Golf </span>",NA,NA,NA,NA
+"297","1994","Volkswagen","Golf","</span>","22244455556666","1500","210000","Manual","Left","Gasoline","Black","<span style=""background-color:#000000""></span>Black","Sedan","24.02.2021","autoam 378","Volkswagen Golf </span>",NA,NA,NA,NA
+"307","1997","Mercedes-Benz","A","160","160","800","120000","Automatic","Left","Gasoline","White","","Hatchback","11.01.2021","autoam 379","Mercedes-Benz A 160",NA,NA,NA,NA
+"1","2008","VAZ (Lada)","2170",NA,NA,"2700","134000","Manual","Left","Gas/Gasoline",NA,NA,NA,"27.05.2019","autopro 1","VAZ (Lada) 2170 Priora","","Excellent","","https://autopro.am/car.php?id=32081"
+"229","2003","Nissan Teana","",NA,NA,"4000","130000","Automatic","Right","Gas/Gasoline",NA,NA,NA,"01.05.2019","autopro 2","Nissan Teana","2.3 լ","Excellent","forward","https://autopro.am/car.php?id=31380"
+"328","2011","VAZ (Lada)","2107",NA,NA,"2300","105000","Manual","Left","Gas",NA,NA,NA,"21.04.2019","autopro 3","VAZ (Lada) 2107 1.7 инжектор","1.7 լ","Excellent","backward","https://autopro.am/car.php?id=31193"
+"428","2007","VAZ (Lada)","2115",NA,NA,"3000","122000","Manual","Left","Gas/Gasoline",NA,NA,NA,"18.04.2019","autopro 4","VAZ (Lada) 2115","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=31169"
+"510","2006","Nissan Tiida","",NA,NA,"3300","100500","Automatic","Right","Gasoline",NA,NA,NA,"23.02.2019","autopro 5","Nissan Tiida","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=30840"
+"610","2002","Opel Astra","G",NA,NA,"3300","140000","Manual","Left","Gas/Gasoline",NA,NA,NA,"02.02.2019","autopro 6","Opel Astra G","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=30760"
+"78","2005","Hyundai Accent","Verna",NA,NA,"4000","147000","Automatic","Left","Dizel",NA,NA,NA,"24.01.2019","autopro 7","Hyundai Accent Verna","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=30734"
+"88","2008","VAZ (Lada)","2170",NA,NA,"5000","110000","Manual","Left","Gasoline",NA,NA,NA,"12.12.2018","autopro 8","VAZ (Lada) 2170 Priora","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=30528"
+"98","2005","Nissan Skyline","",NA,NA,"3800","102000","Automatic","Right","Gasoline",NA,NA,NA,"07.11.2018","autopro 9","Nissan Skyline","2.5 լ","Excellent","backward","https://autopro.am/car.php?id=30412"
+"108","2004","Nissan Tiida","",NA,NA,"4500","115000","Automatic","Right","Gas",NA,NA,NA,"16.08.2018","autopro 10","Nissan Tiida","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=30183"
+"118","2003","Nissan Teana","2.3JK",NA,NA,"4250","135000","Automatic","Right","Gasoline",NA,NA,NA,"27.07.2018","autopro 11","Nissan Teana 2.3JK","2.3 լ","Excellent","forward","https://autopro.am/car.php?id=29993"
+"128","2003","Nissan Elgrand","AYo",NA,NA,"4500","126000","Automatic","Right","Gas",NA,NA,NA,"24.04.2018","autopro 12","Nissan Elgrand AYo","3.5 լ","Excellent","full","https://autopro.am/car.php?id=29763"
+"138","2012","VAZ (Lada)","2170",NA,NA,"4200","110000","Manual","Left","Gas/Gasoline",NA,NA,NA,"15.04.2018","autopro 13","VAZ (Lada) 2170 Priora","","Excellent","","https://autopro.am/car.php?id=29746"
+"148","2001","Mitsubishi Pajero","",NA,NA,"3700","000000","Automatic","Left","Gas/Gasoline",NA,NA,NA,"12.03.2018","autopro 14","Mitsubishi Pajero","2.0 լ","Excellent","full","https://autopro.am/car.php?id=29619"
+"158","2006","Nissan Blue","Bird",NA,NA,"4000","130000","Automatic","Right","Gasoline",NA,NA,NA,"08.03.2018","autopro 15","Nissan Blue Bird","","Excellent","","https://autopro.am/car.php?id=29607"
+"168","2005","Mercedes-Benz 230","",NA,NA,"4000","127000","Automatic","Left","Gasoline",NA,NA,NA,"26.02.2018","autopro 16","Mercedes-Benz 230","","Excellent","","https://autopro.am/car.php?id=29569"
+"178","2009","Nissan Blue","Bird",NA,NA,"4200","105000","Automatic","Right","Gasoline",NA,NA,NA,"18.01.2018","autopro 17","Nissan Blue Bird","2.0 լ","Excellent","","https://autopro.am/car.php?id=29418"
+"188","2002","BMW 320","M",NA,NA,"4400","130000","Automatic","Right","Gasoline",NA,NA,NA,"18.01.2018","autopro 18","BMW 320 M SPORT","2.2 լ","Excellent","","https://autopro.am/car.php?id=29416"
+"198","2005","Nissan Fuga","",NA,NA,"4700","127329","Automatic","Right","Gasoline",NA,NA,NA,"18.01.2018","autopro 19","Nissan Fuga","3.5 լ","Excellent","","https://autopro.am/car.php?id=29413"
+"208","2004","Nissan Skyline","",NA,NA,"4200","122000","Automatic","Right","Gasoline",NA,NA,NA,"25.10.2017","autopro 20","Nissan Skyline","2.5 լ","Excellent","backward","https://autopro.am/car.php?id=29110"
+"2112","2002","Volkswagen Golf","",NA,NA,"4500","124000","Automatic","Left","Gasoline",NA,NA,NA,"01.10.2017","autopro 21","Volkswagen Golf","2.0 լ","Excellent","forward","https://autopro.am/car.php?id=29017"
+"2210","2004","Nissan Teana","",NA,NA,"5000","130000","Automatic","Left","Gasoline",NA,NA,NA,"15.09.2017","autopro 22","Nissan Teana","2.3 լ","Excellent","","https://autopro.am/car.php?id=28959"
+"238","2003","Nissan Teana","",NA,NA,"4000","115000","Automatic","Right","Gas/Gasoline",NA,NA,NA,"01.09.2017","autopro 23","Nissan Teana","2.3 լ","Excellent","forward","https://autopro.am/car.php?id=28922"
+"248","2003","Mazda Demio","",NA,NA,"3200","108000","Automatic","Right","Gas/Gasoline",NA,NA,NA,"25.02.2017","autopro 24","Mazda Demio","1.3 լ","Excellent","forward","https://autopro.am/car.php?id=28241"
+"258","2007","Nissan Tiida","Latio",NA,NA,"4000","136000","Automatic","Right","Gasoline",NA,NA,NA,"19.02.2017","autopro 25","Nissan Tiida Latio","1.5 լ","Excellent","full","https://autopro.am/car.php?id=28209"
+"268","2006","KIA Cerato","EX",NA,NA,"4700","1","Manual","Left","Gas/Gasoline",NA,NA,NA,"21.10.2016","autopro 26","KIA Cerato EX","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=27672"
+"278","2002","Mitsubishi Colt","1",NA,NA,"3500","150000","Automatic","Right","Gas/Gasoline",NA,NA,NA,"14.10.2016","autopro 27","Mitsubishi Colt 1","1.3 լ","Excellent","forward","https://autopro.am/car.php?id=27647"
+"288","2004","VAZ (Lada)","2110",NA,NA,"2200","100000","Manual","Left","Gasoline",NA,NA,NA,"28.08.2016","autopro 28","VAZ (Lada) 2110","","Excellent","","https://autopro.am/car.php?id=27446"
+"298","2003","VAZ (Lada)","2110",NA,NA,"2300","111111","Manual","Left","Gas",NA,NA,NA,"07.06.2016","autopro 29","VAZ (Lada) 2110","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=27095"
+"308","2004","Nissan Teana","JM230",NA,NA,"5000","130000","Automatic","Right","Gas/Gasoline",NA,NA,NA,"24.03.2016","autopro 30","Nissan Teana JM230","2.3 լ","Excellent","forward","https://autopro.am/car.php?id=26565"
+"3111","2005","Gaz 31105","ELEGACE",NA,NA,"3400","126000","Manual","Left","Gas/Gasoline",NA,NA,NA,"29.11.2015","autopro 31","Gaz 31105 ELEGACE","2.4 լ","Excellent","backward","https://autopro.am/car.php?id=25096"
+"329","2007","VAZ (Lada)","2107",NA,NA,"3600","15000","Manual","Left","Gas/Gasoline",NA,NA,NA,"26.10.2015","autopro 32","VAZ (Lada) 2107 ayo","1.2 լ","Excellent","backward","https://autopro.am/car.php?id=24748"
+"337","2004","Rover 45","pagovi",NA,NA,"4500","140000","Manual","Left","Gas/Gasoline",NA,NA,NA,"23.10.2015","autopro 33","Rover 45 pagovi","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=24715"
+"347","2003","Nissan Teana","2.3",NA,NA,"3900","123000","Automatic","Right","Gasoline",NA,NA,NA,"19.10.2015","autopro 34","Nissan Teana 2.3 jm","2.3 լ","Excellent","forward","https://autopro.am/car.php?id=24655"
+"357","2008","VAZ (Lada)","2107",NA,NA,"2100","130000","Manual","Left","Gas/Gasoline",NA,NA,NA,"15.09.2015","autopro 35","VAZ (Lada) 2107 2008","1.7 լ","Excellent","","https://autopro.am/car.php?id=24233"
+"367","2008","VAZ (Lada)","2170",NA,NA,"5000","114000","Manual","Left","Gasoline",NA,NA,NA,"09.09.2015","autopro 36","VAZ (Lada) 2170 Priora expert","1.7 լ","Excellent","forward","https://autopro.am/car.php?id=24135"
+"377","2003","Nissan Teana","",NA,NA,"4800","130000","Automatic","Right","Gasoline",NA,NA,NA,"02.09.2015","autopro 37","Nissan Teana","2.3 լ","Excellent","","https://autopro.am/car.php?id=24056"
+"387","2008","VAZ (Lada)","2170",NA,NA,"5000","114000","Manual","Left","Gasoline",NA,NA,NA,"25.08.2015","autopro 38","VAZ (Lada) 2170 Priora 21073 EXPERT","1.7 լ","Excellent","forward","https://autopro.am/car.php?id=23917"
+"397","2003","Nissan Teana","J31",NA,NA,"4300","11000","Automatic","Right","Gas",NA,NA,NA,"23.08.2015","autopro 39","Nissan Teana J31","2.3 լ","Excellent","","https://autopro.am/car.php?id=23872"
+"407","2002","Nissan Skyline","2wd",NA,NA,"4500","100000","Semiautomatic","Right","Gasoline",NA,NA,NA,"23.07.2015","autopro 40","Nissan Skyline 2wd","2.5 լ","Excellent","backward","https://autopro.am/car.php?id=23516"
+"4111","2008","VAZ (Lada)","2107",NA,NA,"4000","111","Manual","Left","Gasoline",NA,NA,NA,"28.04.2015","autopro 41","VAZ (Lada) 2107 poxanakum","","Excellent","","https://autopro.am/car.php?id=22316"
+"429","2001","Ford Mondeo","",NA,NA,"4000","148000","Manual","Left","Gas/Gasoline",NA,NA,NA,"30.01.2015","autopro 42","Ford Mondeo","1.8 լ","Excellent","forward","https://autopro.am/car.php?id=20332"
+"437","2005","Honda Mobilio","",NA,NA,"3800","130000","Automatic","Right","Gas/Gasoline",NA,NA,NA,"25.12.2014","autopro 43","Honda Mobilio","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=19570"
+"447","2005","Nissan March","093045099",NA,NA,"3500","100000","Automatic","Right","Gasoline",NA,NA,NA,"23.12.2014","autopro 44","Nissan March 093045099","1.2 լ","Excellent","forward","https://autopro.am/car.php?id=19553"
+"457","2005","VAZ (Lada)","2107",NA,NA,"4000","110000","Manual","Left","Gas/Gasoline",NA,NA,NA,"30.11.2014","autopro 45","VAZ (Lada) 2107","1.6 լ","Excellent","backward","https://autopro.am/car.php?id=19033"
+"467","2006","Gaz 31105","",NA,NA,"3500","150000","Manual","Left","Gas/Gasoline",NA,NA,NA,"27.11.2014","autopro 46","Gaz 31105","2.4 լ","Excellent","backward","https://autopro.am/car.php?id=18970"
+"477","2005","VAZ (Lada)","2110",NA,NA,"3500","144065","Manual","Left","Gas/Gasoline",NA,NA,NA,"06.11.2014","autopro 47","VAZ (Lada) 2110","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=18564"
+"487","2007","Nissan Tiida","",NA,NA,"3600","139000","Automatic","Right","Gasoline",NA,NA,NA,"22.07.2014","autopro 48","Nissan Tiida","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=16446"
+"497","2005","Nissan March","",NA,NA,"3600","120000","Automatic","Right","Gasoline",NA,NA,NA,"10.07.2014","autopro 49","Nissan March","1.2 լ","Excellent","forward","https://autopro.am/car.php?id=16205"
+"507","2001","Opel Vectra","B",NA,NA,"4800","144000","Manual","Left","Gasoline",NA,NA,NA,"02.07.2014","autopro 50","Opel Vectra B","1.8 լ","Excellent","forward","https://autopro.am/car.php?id=16039"
+"517","2006","VAZ (Lada)","2110",NA,NA,"4000","117000","Manual","Left","Gas/Gasoline",NA,NA,NA,"23.06.2014","autopro 51","VAZ (Lada) 2110","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=15827"
+"521","2003","VAZ (Lada)","2107",NA,NA,"2500","150000","Manual","Left","Gas/Gasoline",NA,NA,NA,"23.06.2014","autopro 52","VAZ (Lada) 2107","1.6 լ","Excellent","backward","https://autopro.am/car.php?id=15809"
+"531","2006","VAZ (Lada)","2110",NA,NA,"4800","130000","Manual","Left","Gas/Gasoline",NA,NA,NA,"30.03.2014","autopro 53","VAZ (Lada) 2110","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=14115"
+"541","2001","Mercedes-Benz A","160",NA,NA,"4900","11800","Automatic","Left","Gasoline",NA,NA,NA,"28.03.2014","autopro 54","Mercedes-Benz A 160 .","1.6 լ","Excellent","forward","https://autopro.am/car.php?id=14083"
+"551","2004","Opel Corsa","MEQENAN",NA,NA,"4400","132000","Manual","Left","Gasoline",NA,NA,NA,"22.03.2014","autopro 55","Opel Corsa MEQENAN BERVELE BELG","1.4 լ","Excellent","forward","https://autopro.am/car.php?id=13919"
+"561","2003","VAZ (Lada)","2110",NA,NA,"4700","104000","Manual","Left","Gas/Gasoline",NA,NA,NA,"18.03.2014","autopro 56","VAZ (Lada) 2110","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=13808"
+"571","2003","Gaz 3110","Volga",NA,NA,"3950","140000","Manual","Left","Gasoline",NA,NA,NA,"20.02.2014","autopro 57","Gaz 3110 Volga","2.0 լ","Excellent","backward","https://autopro.am/car.php?id=13151"
+"581","2001","VAZ (Lada)","2110",NA,NA,"4000","106340","Manual","Left","Gasoline",NA,NA,NA,"09.01.2014","autopro 58","VAZ (Lada) 2110","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=12138"
+"59","2007","VAZ (Lada)","2110",NA,NA,"3600","105000","Manual","Left","Gas/Gasoline",NA,NA,NA,"25.10.2013","autopro 59","VAZ (Lada) 2110","1.6 լ","Excellent","","https://autopro.am/car.php?id=10416"
+"60","2004","Mazda Demio","",NA,NA,"4700","133000","Automatic","Right","Gasoline",NA,NA,NA,"01.10.2013","autopro 60","Mazda Demio","1.3 լ","Excellent","","https://autopro.am/car.php?id=9697"
+"611","2003","Gaz 3102","",NA,NA,"4500","133000","Manual","Left","Gas/Gasoline",NA,NA,NA,"22.09.2013","autopro 61","Gaz 3102","2.4 լ","Excellent","backward","https://autopro.am/car.php?id=9390"
+"621","2002","Honda Fit","1.3",NA,NA,"4888","130000","Automatic","Right","Gasoline",NA,NA,NA,"16.09.2013","autopro 62","Honda Fit 1.3 AVTOMAT","1.3 լ","Excellent","forward","https://autopro.am/car.php?id=9172"
+"631","2004","VAZ (Lada)","2107",NA,NA,"4000","120000","Manual","Left","Gas/Gasoline",NA,NA,NA,"14.08.2013","autopro 63","VAZ (Lada) 2107","1.6 լ","Excellent","backward","https://autopro.am/car.php?id=7980"
+"641","2005","VAZ (Lada)","2115",NA,NA,"5000","147000","Manual","Left","Gas/Gasoline",NA,NA,NA,"14.07.2013","autopro 64","VAZ (Lada) 2115","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=6754"
+"651","2003","Nissan March","",NA,NA,"4500","118630","Automatic","Right","Gasoline",NA,NA,NA,"29.05.2013","autopro 65","Nissan March","1.2 լ","Excellent","forward","https://autopro.am/car.php?id=4732"
+"661","2001","Daihatsu Coure","",NA,NA,"2700","100000","Manual","Left","Gasoline",NA,NA,NA,"21.05.2013","autopro 66","Daihatsu Coure","1.0 լ","Excellent","forward","https://autopro.am/car.php?id=4353"
+"671","2006","VAZ (Lada)","2107",NA,NA,"5000","100000","Manual","Left","Gas/Gasoline",NA,NA,NA,"19.05.2013","autopro 67","VAZ (Lada) 2107","1.6 լ","Excellent","backward","https://autopro.am/car.php?id=4247"
+"68","2004","VAZ (Lada)","2115",NA,NA,"4450","1","Manual","Left","Gasoline",NA,NA,NA,"11.04.2013","autopro 68","VAZ (Lada) 2115","1.5 լ","Excellent","forward","https://autopro.am/car.php?id=2714"
+"69","2004","Nissan March","1.2L",NA,NA,"4800","100000","Automatic","Right","Gasoline",NA,NA,NA,"23.02.2013","autopro 69","Nissan March 1.2L","1.2 լ","Excellent","forward","https://autopro.am/car.php?id=1166"
+"70","2013","VAZ (Lada)","2101",NA,NA,"2200","111","Manual","Left","Gas/Gasoline",NA,NA,NA,"13.02.2013","autopro 70","VAZ (Lada) 2101","1.6 լ","Excellent","backward","https://autopro.am/car.php?id=837"
+"...450","2010",NA,NA,NA,NA,"3400","47000",NA,NA,"Gas",NA,NA,NA,NA,"list 1","VAZ (Lada) 2107"," 1.5 լ",NA,"","https://www.list.am/item/17987676"
+"...451","2002",NA,NA,NA,NA,"4000","136000",NA,NA,"Gas",NA,NA,NA,NA,"list 2","Volkswagen Passat"," 2.8 լ",NA,"","https://www.list.am/item/17924115"
+"...452","2007",NA,NA,NA,NA,"2400","141000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 3","VAZ (Lada) Kalina հետչբեք"," 1.6 լ",NA,"","https://www.list.am/item/17991568"
+"...453","2001",NA,NA,NA,NA,"3500","24000",NA,NA,"Gas",NA,NA,NA,NA,"list 4","Infiniti I30"," 3.0 լ",NA,"","https://www.list.am/item/17963173"
+"...454","2007",NA,NA,NA,NA,"4200","120000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 5","DongFeng MPV"," 2.0 լ",NA,"","https://www.list.am/item/17830704"
+"...455","2001",NA,NA,NA,NA,"2000","",NA,NA,"Gasoline",NA,NA,NA,NA,"list 6","VAZ (Lada) 21099"," 1.5 լ",NA,"","https://www.list.am/item/16405982"
+"...456","2002",NA,NA,NA,NA,"4300","126000",NA,NA,"Gas",NA,NA,NA,NA,"list 7","Land Rover Freelander"," 2.5 լ",NA,"լիաքարշ","https://www.list.am/item/17951255"
+"...457","2000",NA,NA,NA,NA,"1900","100000",NA,NA,"Gas",NA,NA,NA,NA,"list 8","VAZ (Lada) 21099"," 1.5 լ",NA,"","https://www.list.am/item/17397187"
+"...458","2008",NA,NA,NA,NA,"4000","140000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 9","VAZ (Lada) Priora"," 1.6 լ",NA,"","https://www.list.am/item/17950377"
+"...459","2000",NA,NA,NA,NA,"3500","",NA,NA,"Gas",NA,NA,NA,NA,"list 10","Opel Astra հետչբեք"," 1.6 լ",NA,"","https://www.list.am/item/17232267"
+"...460","2000",NA,NA,NA,NA,"1900","100000",NA,NA,"Gas",NA,NA,NA,NA,"list 11","VAZ (Lada) 21099"," 1.5 լ",NA,"","https://www.list.am/item/12456468"
+"...461","2010",NA,NA,NA,NA,"3500","54000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 12","VAZ (Lada) 2107"," 1.6 լ",NA,"","https://www.list.am/item/17504080"
+"...462","2007",NA,NA,NA,NA,"3200","120000",NA,NA,"Gas",NA,NA,NA,NA,"list 13","VAZ (Lada) 2110"," 1.6 լ",NA,"","https://www.list.am/item/17667251"
+"...463","2007",NA,NA,NA,NA,"2300","140000",NA,NA,"Gas",NA,NA,NA,NA,"list 14","VAZ (Lada) 2114 հետչբեք"," 1.5 լ",NA,"","https://www.list.am/item/17765259"
+"...464","2002",NA,NA,NA,NA,"3000","150000",NA,NA,"Gas",NA,NA,NA,NA,"list 15","Volkswagen Passat"," 2.0 լ",NA,"","https://www.list.am/item/17463017"
+"...465","2000",NA,NA,NA,NA,"2600","140000",NA,NA,"Gas",NA,NA,NA,NA,"list 16","GAZ (ГАЗ) 3110 Volga"," 2.3 լ",NA,"","https://www.list.am/item/17638077"
+"...466","2000",NA,NA,NA,NA,"4100","",NA,NA,"Gas",NA,NA,NA,NA,"list 17","VAZ (Lada) 2121 (4x4)"," 1.7 լ",NA,"լիաքարշ","https://www.list.am/item/17236137"
+"...467","2000",NA,NA,NA,NA,"4000","12345",NA,NA,"Gas",NA,NA,NA,NA,"list 18","Opel Vectra"," 1.8 լ",NA,"","https://www.list.am/item/16472400"
+"...468","2008",NA,NA,NA,NA,"2300","150000",NA,NA,"Gas",NA,NA,NA,NA,"list 19","Daewoo Matiz հետչբեք"," 0.8 լ",NA,"","https://www.list.am/item/17657046"
+"...469","2007",NA,NA,NA,NA,"3500","62000",NA,NA,"Gas",NA,NA,NA,NA,"list 20","UAZ (УАЗ) 31514 ունիվերսալ"," 2.0 լ",NA,"լիաքարշ","https://www.list.am/item/17772639"
+"...470","2000",NA,NA,NA,NA,"2300","12345",NA,NA,"Gas",NA,NA,NA,NA,"list 21","Ford Escort"," 1.6 լ",NA,"","https://www.list.am/item/17559913"
+"...471","2016",NA,NA,NA,NA,"3500","119000",NA,NA,"Gas",NA,NA,NA,NA,"list 22","Daewoo Nexia"," 1.5 լ",NA,"","https://www.list.am/item/16713901"
+"...472","2003",NA,NA,NA,NA,"3600","",NA,NA,"Gas",NA,NA,NA,NA,"list 23","UAZ (УАЗ) Hunter"," 2.2 լ",NA,"լիաքարշ","https://www.list.am/item/17772682"
+"...473","2003",NA,NA,NA,NA,"4000","",NA,NA,"Gas",NA,NA,NA,NA,"list 24","UAZ (УАЗ) Hunter"," 2.2 լ",NA,"լիաքարշ","https://www.list.am/item/17659969"
+"...474","2005",NA,NA,NA,NA,"3800","",NA,NA,"Gasoline",NA,NA,NA,NA,"list 25","Chevrolet Equinox"," 3.4 լ",NA,"","https://www.list.am/item/17119774"
+"...475","2000",NA,NA,NA,NA,"3500","19000",NA,NA,"Gas",NA,NA,NA,NA,"list 26","Opel Astra"," 1.2 լ",NA,"","https://www.list.am/item/17589703"
+"...476","2004",NA,NA,NA,NA,"3800","123456",NA,NA,"Gas",NA,NA,NA,NA,"list 27","Renault Scenic"," 1.6 լ",NA,"","https://www.list.am/item/16853061"
+"...477","2010",NA,NA,NA,NA,"2800","85000",NA,NA,"Gas",NA,NA,NA,NA,"list 28","VAZ (Lada) 2107"," 1.7 լ",NA,"","https://www.list.am/item/17982524"
+"...478","2007",NA,NA,NA,NA,"1000","72000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 29","GAZ (ГАЗ) 31105 Volga"," 2.5 լ",NA,"","https://www.list.am/item/16150343"
+"...479","2004",NA,NA,NA,NA,"2350","144000",NA,NA,"Gas",NA,NA,NA,NA,"list 30","VAZ (Lada) 2107"," 1.6 լ",NA,"","https://www.list.am/item/17463694"
+"...480","2012",NA,NA,NA,NA,"3000","120000",NA,NA,"Gas",NA,NA,NA,NA,"list 31","Daewoo Damas"," 0.8 լ",NA,"","https://www.list.am/item/17969851"
+"...481","2008",NA,NA,NA,NA,"1800","",NA,NA,"Gasoline",NA,NA,NA,NA,"list 32","VAZ (Lada) 1111 Oka"," 1.1 լ",NA,"","https://www.list.am/item/17812393"
+"...482","2000",NA,NA,NA,NA,"3000","",NA,NA,"Gas",NA,NA,NA,NA,"list 33","Opel Vectra ունիվերսալ"," 1.6 լ",NA,"","https://www.list.am/item/16175206"
+"...483","2010",NA,NA,NA,NA,"4000","120000",NA,NA,"Gas",NA,NA,NA,NA,"list 34","VAZ (Lada) 2121 Niva"," 1.7 լ",NA,"լիաքարշ","https://www.list.am/item/15064154"
+"...484","2001",NA,NA,NA,NA,"4500","145500",NA,NA,"Gasoline",NA,NA,NA,NA,"list 35","Mitsubishi Eclipse կուպե"," 2.0 լ",NA,"","https://www.list.am/item/14032678"
+"...485","2005",NA,NA,NA,NA,"4400","75000",NA,NA,"Gas",NA,NA,NA,NA,"list 36","GAZ (ГАЗ) ГАЗель"," 3.0 լ",NA,"","https://www.list.am/item/17798535"
+"...486","2005",NA,NA,NA,NA,"2450","150000",NA,NA,"Gas",NA,NA,NA,NA,"list 37","GAZ (ГАЗ) ГАЗель"," 2.0 լ",NA,"","https://www.list.am/item/17741750"
+"...487","2010",NA,NA,NA,NA,"3500","100000",NA,NA,"Gas",NA,NA,NA,NA,"list 38","VAZ (Lada) 2107"," 1.7 լ",NA,"","https://www.list.am/item/17987867"
+"...488","2003",NA,NA,NA,NA,"4300","136000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 39","Opel Astra հետչբեք"," 1.6 լ",NA,"","https://www.list.am/item/17642884"
+"...489","2006",NA,NA,NA,NA,"3200","",NA,NA,"Gasoline",NA,NA,NA,NA,"list 40","Chevrolet Equinox"," 3.4 լ",NA,"լիաքարշ","https://www.list.am/item/14914315"
+"...490","2006",NA,NA,NA,NA,"2900","107000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 41","Peugeot 206 հետչբեք"," 1.4 լ",NA,"","https://www.list.am/item/17867497"
+"...491","2006",NA,NA,NA,NA,"2200","140000",NA,NA,"Gas",NA,NA,NA,NA,"list 42","VAZ (Lada) 2110"," 1.6 լ",NA,"","https://www.list.am/item/17669450"
+"...492","2010",NA,NA,NA,NA,"4000","70000",NA,NA,"Gas",NA,NA,NA,NA,"list 43","VAZ (Lada) 2107"," 1.7 լ",NA,"","https://www.list.am/item/17553922"
+"...493","2002",NA,NA,NA,NA,"Փնտրում եմ","",NA,NA,"Gasoline",NA,NA,NA,NA,"list 44","Opel Astra հետչբեք"," 1.8 լ",NA,"","https://www.list.am/item/17526005"
+"...494","2006",NA,NA,NA,NA,"3000","",NA,NA,"Gas",NA,NA,NA,NA,"list 45","VAZ (Lada) 2110"," 1.6 լ",NA,"","https://www.list.am/item/17773616"
+"...495","2008",NA,NA,NA,NA,"3100","13578",NA,NA,"Gas",NA,NA,NA,NA,"list 46","VAZ (Lada) 2107"," 1.7 լ",NA,"","https://www.list.am/item/17880789"
+"...496","2004",NA,NA,NA,NA,"2600","125000",NA,NA,"Gas",NA,NA,NA,NA,"list 47","VAZ (Lada) 2107"," 1.7 լ",NA,"","https://www.list.am/item/17741840"
+"...497","2001",NA,NA,NA,NA,"3800","100000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 48","Kia Sedona"," 3.5 լ",NA,"","https://www.list.am/item/15900519"
+"...498","2003",NA,NA,NA,NA,"1800","98888",NA,NA,"Gas",NA,NA,NA,NA,"list 49","Ford Focus"," 2.0 լ",NA,"լիաքարշ","https://www.list.am/item/16864930"
+"...499","2007",NA,NA,NA,NA,"4000","",NA,NA,"Gas",NA,NA,NA,NA,"list 50","VAZ (Lada) 2107"," 1.7 լ",NA,"","https://www.list.am/item/17398656"
+"...500","2002",NA,NA,NA,NA,"1800","95000",NA,NA,"Gas",NA,NA,NA,NA,"list 51","VAZ (Lada) 2107"," 1.5 լ",NA,"","https://www.list.am/item/15671526"
+"...501","2002",NA,NA,NA,NA,"2800","",NA,NA,"Gasoline",NA,NA,NA,NA,"list 52","Opel Vectra"," 2.2 լ",NA,"","https://www.list.am/item/17961144"
+"...502","2007",NA,NA,NA,NA,"3500","20000",NA,NA,"Gas",NA,NA,NA,NA,"list 53","VAZ (Lada) 2107"," 1.5 լ",NA,"","https://www.list.am/item/16307771"
+"...503","2005",NA,NA,NA,NA,"2000","80485",NA,NA,"Gas",NA,NA,NA,NA,"list 54","VAZ (Lada) 2107"," 1.7 լ",NA,"","https://www.list.am/item/17896391"
+"...504","2002",NA,NA,NA,NA,"2700","",NA,NA,"Gas",NA,NA,NA,NA,"list 55","Citroen C5"," 1.7 լ",NA,"","https://www.list.am/item/17427128"
+"...505","2005",NA,NA,NA,NA,"4000","95000",NA,NA,"Gasoline",NA,NA,NA,NA,"list 56","Peugeot Partner"," 1.9 լ",NA,"","https://www.list.am/item/17580850"
+"...506","2010",NA,NA,NA,NA,"2500","73000",NA,NA,"Gas",NA,NA,NA,NA,"list 57","Iran Khodro Samand"," 1.8 լ",NA,"","https://www.list.am/item/16937465"
+"...507","2002",NA,NA,NA,NA,"1950","150000",NA,NA,"Gas",NA,NA,NA,NA,"list 58","VAZ (Lada) 21099"," 1.5 լ",NA,"","https://www.list.am/item/17429292"
+"...508","2005",NA,NA,NA,NA,"3800","",NA,NA,"Gas",NA,NA,NA,NA,"list 59","VAZ (Lada) 2121 (4x4)"," 1.7 լ",NA,"լիաքարշ","https://www.list.am/item/17923984"
+"...509","2007",NA,NA,NA,NA,"2000","13800",NA,NA,"Gas",NA,NA,NA,NA,"list 60","VAZ (Lada) 2107"," 1.7 լ",NA,"","https://www.list.am/item/11921008"
+"...510","2008",NA,NA,NA,NA,"4000","",NA,NA,"Gas",NA,NA,NA,NA,"list 61","Ford C-MAX ունիվերսալ"," 1.8 լ",NA,"","https://www.list.am/item/15604546"
+"...511","2007",NA,NA,NA,NA,"3550","98988",NA,NA,"Gas",NA,NA,NA,NA,"list 62","Skoda Roomster"," 1.4 լ",NA,"","https://www.list.am/item/17866716"
+"...512","2000",NA,NA,NA,NA,"4500","",NA,NA,"Gas",NA,NA,NA,NA,"list 63","Opel Zafira"," 1.8 լ",NA,"","https://www.list.am/item/17745278"
+"...513","2007",NA,NA,NA,NA,"3600","20000",NA,NA,"Gas",NA,NA,NA,NA,"list 64","VAZ (Lada) 2112 հետչբեք"," 1.6 լ",NA,"","https://www.list.am/item/17618648"
+"...514","2001",NA,NA,NA,NA,"3500","",NA,NA,"Gas",NA,NA,NA,NA,"list 65","Opel Astra"," 1.6 լ",NA,"","https://www.list.am/item/17729239"

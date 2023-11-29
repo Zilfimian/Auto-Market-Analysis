@@ -1,0 +1,127 @@
+---
+title: "Auto for GG"
+author: " "
+date: |
+  `r format(Sys.time(), '%B %d, %Y')` 
+output: 
+  html_document:
+    toc: TRUE
+    toc_depth: 4
+    toc_float: true
+    toc_collapse: true
+    theme: united
+    highlight: zenburn
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+pacman::p_load(ggplot2, dplyr, ggthemes, ggpubr, ggcorrplot, rjson, stringr)
+```
+
+***
+# Data from 3 sources
+
+```{r}
+load("auto.am.data.Rda")
+
+auto.am.data$ID <- paste("autoam", 1:nrow(auto.am.data))
+
+autoam <- auto.am.data %>% select(year, Model, Model2, Model3, Model4, Price, Milage, Autom, rul, gas, color, Other, View, Date, ID)
+autoam$Model4 <- trimws(paste(str_remove_all(autoam$Model3, "</span>"), trimws(str_remove_all(autoam$Model4, ",|/|Ayo"))))
+autoam$Price <- str_extract_all(autoam$Price, pattern = ".\\s+[0-9]\\s?[0-9]*",simplify = T)
+autoam$Milage <- str_remove_all(autoam$Milage, pattern = "[^0-9]")
+autoam$Autom <- trimws(autoam$Autom)
+autoam$color <- str_remove_all(str_extract(autoam$color, pattern = "n>.*"),"n>")
+autoam$View <- trimws(str_remove_all(autoam$View, ","))
+autoam$Price <- str_remove_all(autoam$Price, "\\$|\\s+")
+```
+
+
+
+```{r}
+dat <- jsonlite::fromJSON("apa.json", flatten = TRUE)[[1]]
+apro <- dat %>% bind_rows() 
+apro$ID <- paste("autopro", 1:nrow(apro))
+apro$gas <- str_extract_all(apro$Details, "Գազ/Բենզին|Գազ|Բենզին|Դիզել", simplify = T)[,1]
+
+apro$volume <- str_extract_all(apro$Details, "[0-9].[0-9]\\s+լ", simplify = T)[,1]
+apro$Milage <- str_remove_all(str_extract_all(apro$Details, "\n[0-9]*", simplify = T)[,1],pattern = "\n")
+apro$Autom <- str_extract_all(apro$Details, "Ավտոմատ|Մեխանիկական|Կիսաավտոմատ", simplify = T)[,1]
+apro$condition <- "Excellent"
+apro$rul <- str_extract_all(apro$Details, "Աջ|Ձախ", simplify = T)[,1]
+apro$privod <- str_extract_all(apro$Details, "Ետևի քարշակ|Առջևի քարշակ|Լիաքարշակ", simplify = T)[,1]
+
+apro$gas <- factor(apro$gas)
+levels(apro$gas) <- c("Gasoline", "Gas",  "Gas/Gasoline", "Dizel")
+apro$gas <- as.character(apro$gas)
+
+
+apro$Autom <- factor(apro$Autom)
+levels(apro$Autom) <- c("Automatic", "Semiautomatic",  "Manual")
+apro$Autom <- as.character(apro$Autom)
+
+
+apro$rul <- factor(apro$rul)
+levels(apro$rul) <- c("Right", "Left")
+apro$rul <- as.character(apro$rul)
+
+apro$privod <- factor(apro$privod)
+levels(apro$privod) <- c("","forward", "backward", "full")
+apro$privod <- as.character(apro$privod)
+apro$year <- str_remove_all(apro$year, "[^0-9]*")
+
+apro <- apro %>% select(Date, Fullname,year,ID, gas,volume,Milage,condition,Autom,rul,privod,price,url)
+
+apro$Model <- paste(str_split(apro$Fullname, pattern = "\\s+", simplify = T)[,1],str_split(apro$Fullname, pattern = "\\s+", simplify = T)[,2])
+apro$Model2 <- str_split(apro$Fullname, pattern = "\\s+", simplify = T)[,3]
+
+apro$Price <- str_remove_all(apro$price, pattern = "\\$|,|\\s+")
+apro$price <-NULL
+
+autoam$Fullname <- paste(autoam$Model,autoam$Model2, autoam$Model3)
+
+autoam$volume <- NA
+autoam$condition <- NA
+autoam$privod <- NA
+autoam$url <- NA
+
+apro$Model3 <- NA
+apro$Model4 <- NA
+apro$color <- NA
+apro$Other <- NA
+apro$View <- NA
+
+colnames(apro)[! (colnames(apro) %in% colnames(autoam))]
+colnames(autoam)[! (colnames(autoam) %in% colnames(apro))]
+
+auto2 <- rbind(autoam, apro)
+```
+
+```{r}
+dat <- jsonlite::fromJSON("list.json", flatten = TRUE)[[1]]
+lst <- dat %>% bind_rows() 
+
+lst$ID <- paste("list", 1:nrow(lst))
+lst$Price <- str_remove_all(lst$Price, pattern = "\\$|,")
+lst$Fullname <- str_split(lst$Name, pattern = ",", simplify = T)[,1]
+lst$volume <- str_split(lst$Name, pattern = ",", simplify = T)[,2]
+lst$year <-  str_remove_all(str_extract_all(lst$Name, "[0-9]*\\s+թ", simplify = T)[,1],pattern = "[^0-9]*")
+
+lst$gas <-  str_extract_all(lst$Name, "գազ", simplify = T)[,1]
+lst$gas[lst$gas==""] <- "Gasoline"
+lst$gas[lst$gas!="Gasoline"] <- "Gas"
+lst$privod <- str_extract_all(lst$Name, "լիաքարշ", simplify = T)[,1]
+lst$Milage <-  str_remove_all(str_extract_all(lst$Details, "[0-9]*,[0-9]*\\s+կմ", simplify = T)[,1],pattern = "[^0-9]*")
+
+lst <- lst %>% select(-c(image,Price_url,Name,Name_url,Details,Details_url))
+colnames(lst)[! (colnames(lst) %in% colnames(auto2))]
+colnames(auto2)[! (colnames(auto2) %in% colnames(lst))]
+
+auto.data <- dplyr::bind_rows(auto2, lst)
+
+save(auto.data, file = "auto.data.rda")
+
+auto.data %>% write.csv(file = "auto.data.csv")
+
+auto.data$Price
+```

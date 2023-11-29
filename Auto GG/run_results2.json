@@ -1,0 +1,634 @@
+{
+ "Auto": [
+  {
+   "image": "https://s.list.am/g/673/59676673.jpg",
+   "url": "https://www.list.am/item/17361397",
+   "Price": "$3,000",
+   "Price_url": "https://www.list.am/item/17361397",
+   "Name": "VAZ (Lada) 2106, 1.6 լ, 2005 թ.",
+   "Name_url": "https://www.list.am/item/17361397",
+   "Details": "Արաբկիր, 2005 թ., 68,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17361397"
+  },
+  {
+   "image": "https://s.list.am/g/564/63097564.jpg",
+   "url": "https://www.list.am/item/18009214",
+   "Price": "$2,850",
+   "Price_url": "https://www.list.am/item/18009214",
+   "Name": "BYD F3, 1.5 լ, 2011 թ., գազ",
+   "Name_url": "https://www.list.am/item/18009214",
+   "Details": "Էրեբունի, 2011 թ., 25,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/18009214"
+  },
+  {
+   "image": "https://s.list.am/g/899/59869899.jpg",
+   "url": "https://www.list.am/item/17398656",
+   "Price": "$4,000",
+   "Price_url": "https://www.list.am/item/17398656",
+   "Name": "VAZ (Lada) 2107, 1.7 լ, 2007 թ., գազ",
+   "Name_url": "https://www.list.am/item/17398656",
+   "Details": "Արարատ, 2007 թ., 500 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17398656"
+  },
+  {
+   "image": "https://s.list.am/g/833/55868833.jpg",
+   "url": "https://www.list.am/item/15064154",
+   "Price": "$4,000",
+   "Price_url": "https://www.list.am/item/15064154",
+   "Name": "VAZ (Lada) 2121 Niva, 1.7 լ, լիաքարշ, 2010 թ., գազ",
+   "Name_url": "https://www.list.am/item/15064154",
+   "Details": "Մալաթիա Սեբաստիա, 2010 թ., 120,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/15064154"
+  },
+  {
+   "image": "https://s.list.am/g/049/62146049.jpg",
+   "url": "https://www.list.am/item/17830704",
+   "Price": "$4,200",
+   "Price_url": "https://www.list.am/item/17830704",
+   "Name": "DongFeng MPV, 2.0 լ, 2007 թ.",
+   "Name_url": "https://www.list.am/item/17830704",
+   "Details": "Շենգավիթ, 2007 թ., 120,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17830704"
+  },
+  {
+   "image": "https://s.list.am/g/177/54690177.jpg",
+   "url": "https://www.list.am/item/16405982",
+   "Price": "$2,000",
+   "Price_url": "https://www.list.am/item/16405982",
+   "Name": "VAZ (Lada) 21099, 1.5 լ, 2001 թ.",
+   "Name_url": "https://www.list.am/item/16405982",
+   "Details": "Ստեփանավան, 2001 թ., 2000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16405982"
+  },
+  {
+   "image": "https://s.list.am/g/648/62786648.jpg",
+   "url": "https://www.list.am/item/17951255",
+   "Price": "$4,300",
+   "Price_url": "https://www.list.am/item/17951255",
+   "Name": "Land Rover Freelander, 2.5 լ, լիաքարշ, 2002 թ., գազ",
+   "Name_url": "https://www.list.am/item/17951255",
+   "Details": "Սպիտակ, 2002 թ., 126,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17951255"
+  },
+  {
+   "image": "https://s.list.am/g/768/59863768.jpg",
+   "url": "https://www.list.am/item/17397187",
+   "Price": "$1,900",
+   "Price_url": "https://www.list.am/item/17397187",
+   "Name": "VAZ (Lada) 21099, 1.5 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/17397187",
+   "Details": "Էրեբունի, 2000 թ., 100,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17397187"
+  },
+  {
+   "image": "https://s.list.am/g/553/62782553.jpg",
+   "url": "https://www.list.am/item/17950377",
+   "Price": "$4,000",
+   "Price_url": "https://www.list.am/item/17950377",
+   "Name": "VAZ (Lada) Priora, 1.6 լ, 2008 թ.",
+   "Name_url": "https://www.list.am/item/17950377",
+   "Details": "Աջափնյակ, 2008 թ., 140,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17950377"
+  },
+  {
+   "image": "https://s.list.am/g/622/62787622.jpg",
+   "url": "https://www.list.am/item/17232267",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/17232267",
+   "Name": "Opel Astra հետչբեք, 1.6 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/17232267",
+   "Details": "Կենտրոն, 2000 թ., 206 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17232267"
+  },
+  {
+   "image": "https://s.list.am/g/875/61823875.jpg",
+   "url": "https://www.list.am/item/12456468",
+   "Price": "$1,900",
+   "Price_url": "https://www.list.am/item/12456468",
+   "Name": "VAZ (Lada) 21099, 1.5 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/12456468",
+   "Details": "Էրեբունի, 2000 թ., 100,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/12456468"
+  },
+  {
+   "image": "https://s.list.am/g/426/61693426.jpg",
+   "url": "https://www.list.am/item/17504080",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/17504080",
+   "Name": "VAZ (Lada) 2107, 1.6 լ, 2010 թ.",
+   "Name_url": "https://www.list.am/item/17504080",
+   "Details": "Վանաձոր, 2010 թ., 54,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17504080"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17667251",
+   "Price": "$3,200",
+   "Price_url": "https://www.list.am/item/17667251",
+   "Name": "VAZ (Lada) 2110, 1.6 լ, 2007 թ., գազ",
+   "Name_url": "https://www.list.am/item/17667251",
+   "Details": "Չարենցավան, 2007 թ., 120,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17667251"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17765259",
+   "Price": "$2,300",
+   "Price_url": "https://www.list.am/item/17765259",
+   "Name": "VAZ (Lada) 2114 հետչբեք, 1.5 լ, 2007 թ., գազ",
+   "Name_url": "https://www.list.am/item/17765259",
+   "Details": "Արթիկ, 2007 թ., 140,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17765259"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17463017",
+   "Price": "$3,000",
+   "Price_url": "https://www.list.am/item/17463017",
+   "Name": "Volkswagen Passat, 2.0 լ, 2002 թ., գազ",
+   "Name_url": "https://www.list.am/item/17463017",
+   "Details": "Աջափնյակ, 2002 թ., 150,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17463017"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17638077",
+   "Price": "$2,600",
+   "Price_url": "https://www.list.am/item/17638077",
+   "Name": "GAZ (ГАЗ) 3110 Volga, 2.3 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/17638077",
+   "Details": "Վանաձոր, 2000 թ., 140,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17638077"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17236137",
+   "Price": "$4,100",
+   "Price_url": "https://www.list.am/item/17236137",
+   "Name": "VAZ (Lada) 2121 (4x4), 1.7 լ, լիաքարշ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/17236137",
+   "Details": "Աշտարակ, 2000 թ., 300 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17236137"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/16472400",
+   "Price": "$4,000",
+   "Price_url": "https://www.list.am/item/16472400",
+   "Name": "Opel Vectra, 1.8 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/16472400",
+   "Details": "Աջափնյակ, 2000 թ., 12,345 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16472400"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17657046",
+   "Price": "$2,300",
+   "Price_url": "https://www.list.am/item/17657046",
+   "Name": "Daewoo Matiz հետչբեք, 0.8 լ, 2008 թ., գազ",
+   "Name_url": "https://www.list.am/item/17657046",
+   "Details": "Մալաթիա Սեբաստիա, 2008 թ., 150,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17657046"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17772639",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/17772639",
+   "Name": "UAZ (УАЗ) 31514 ունիվերսալ, 2.0 լ, լիաքարշ, 2007 թ., գազ",
+   "Name_url": "https://www.list.am/item/17772639",
+   "Details": "Բյուրեղավան, 2007 թ., 62,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17772639"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17559913",
+   "Price": "$2,300",
+   "Price_url": "https://www.list.am/item/17559913",
+   "Name": "Ford Escort, 1.6 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/17559913",
+   "Details": "Էրեբունի, 2000 թ., 12,345 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17559913"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/16713901",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/16713901",
+   "Name": "Daewoo Nexia, 1.5 լ, 2016 թ., գազ",
+   "Name_url": "https://www.list.am/item/16713901",
+   "Details": "Շենգավիթ, 2016 թ., 119,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16713901"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17772682",
+   "Price": "$3,600",
+   "Price_url": "https://www.list.am/item/17772682",
+   "Name": "UAZ (УАЗ) Hunter, 2.2 լ, լիաքարշ, 2003 թ., գազ",
+   "Name_url": "https://www.list.am/item/17772682",
+   "Details": "Ջերմուկ, 2003 թ., 3000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17772682"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17659969",
+   "Price": "$4,000",
+   "Price_url": "https://www.list.am/item/17659969",
+   "Name": "UAZ (УАЗ) Hunter, 2.2 լ, լիաքարշ, 2003 թ., գազ",
+   "Name_url": "https://www.list.am/item/17659969",
+   "Details": "Ավան, 2003 թ., 3000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17659969"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17119774",
+   "Price": "$3,800",
+   "Price_url": "https://www.list.am/item/17119774",
+   "Name": "Chevrolet Equinox, 3.4 լ, 2005 թ.",
+   "Name_url": "https://www.list.am/item/17119774",
+   "Details": "Մալաթիա Սեբաստիա, 2005 թ., 90,000 մղոն, Բենզին",
+   "Details_url": "https://www.list.am/item/17119774"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17589703",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/17589703",
+   "Name": "Opel Astra, 1.2 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/17589703",
+   "Details": "Նոր Նորք, 2000 թ., 19,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17589703"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/16853061",
+   "Price": "$3,800",
+   "Price_url": "https://www.list.am/item/16853061",
+   "Name": "Renault Scenic, 1.6 լ, 2004 թ., գազ",
+   "Name_url": "https://www.list.am/item/16853061",
+   "Details": "Վանաձոր, 2004 թ., 123,456 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16853061"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17982524",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/17982524",
+   "Name": "VAZ (Lada) 2107, 1.7 լ, 2010 թ., գազ",
+   "Name_url": "https://www.list.am/item/17982524",
+   "Details": "Գավառ, 2010 թ., 85,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17982524"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/16150343",
+   "Price": "$1,000",
+   "Price_url": "https://www.list.am/item/16150343",
+   "Name": "GAZ (ГАЗ) 31105 Volga, 2.5 լ, 2007 թ.",
+   "Name_url": "https://www.list.am/item/16150343",
+   "Details": "Շենգավիթ, 2007 թ., 72,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16150343"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17463694",
+   "Price": "$2,350",
+   "Price_url": "https://www.list.am/item/17463694",
+   "Name": "VAZ (Lada) 2107, 1.6 լ, 2004 թ., գազ",
+   "Name_url": "https://www.list.am/item/17463694",
+   "Details": "Էջմիածին, 2004 թ., 144,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17463694"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17969851",
+   "Price": "$3,000",
+   "Price_url": "https://www.list.am/item/17969851",
+   "Name": "Daewoo Damas, 0.8 լ, 2012 թ., գազ",
+   "Name_url": "https://www.list.am/item/17969851",
+   "Details": "Էրեբունի, 2012 թ., 120,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17969851"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17812393",
+   "Price": "$1,800",
+   "Price_url": "https://www.list.am/item/17812393",
+   "Name": "VAZ (Lada) 1111 Oka, 1.1 լ, 2008 թ.",
+   "Name_url": "https://www.list.am/item/17812393",
+   "Details": "Ակնալիճ, 2008 թ., 1000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17812393"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/16175206",
+   "Price": "$3,000",
+   "Price_url": "https://www.list.am/item/16175206",
+   "Name": "Opel Vectra ունիվերսալ, 1.6 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/16175206",
+   "Details": "Գյումրի, 2000 թ., 350 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16175206"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/14032678",
+   "Price": "$4,500",
+   "Price_url": "https://www.list.am/item/14032678",
+   "Name": "Mitsubishi Eclipse կուպե, 2.0 լ, 2001 թ.",
+   "Name_url": "https://www.list.am/item/14032678",
+   "Details": "Էրեբունի, 2001 թ., 145,500 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/14032678"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17798535",
+   "Price": "$4,400",
+   "Price_url": "https://www.list.am/item/17798535",
+   "Name": "GAZ (ГАЗ) ГАЗель, 3.0 լ, 2005 թ., գազ",
+   "Name_url": "https://www.list.am/item/17798535",
+   "Details": "Գյումրի, 2005 թ., 75,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17798535"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17741750",
+   "Price": "$2,450",
+   "Price_url": "https://www.list.am/item/17741750",
+   "Name": "GAZ (ГАЗ) ГАЗель, 2.0 լ, 2005 թ., գազ",
+   "Name_url": "https://www.list.am/item/17741750",
+   "Details": "Նոյեմբերյան, 2005 թ., 150,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17741750"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17987867",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/17987867",
+   "Name": "VAZ (Lada) 2107, 1.7 լ, 2010 թ., գազ",
+   "Name_url": "https://www.list.am/item/17987867",
+   "Details": "Վեդի, 2010 թ., 100,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17987867"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17642884",
+   "Price": "$4,300",
+   "Price_url": "https://www.list.am/item/17642884",
+   "Name": "Opel Astra հետչբեք, 1.6 լ, 2003 թ.",
+   "Name_url": "https://www.list.am/item/17642884",
+   "Details": "Ավան, 2003 թ., 136,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17642884"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/14914315",
+   "Price": "$3,200",
+   "Price_url": "https://www.list.am/item/14914315",
+   "Name": "Chevrolet Equinox, 3.4 լ, լիաքարշ, 2006 թ.",
+   "Name_url": "https://www.list.am/item/14914315",
+   "Details": "Արաբկիր, 2006 թ., 60,000 մղոն, Բենզին",
+   "Details_url": "https://www.list.am/item/14914315"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17867497",
+   "Price": "$2,900",
+   "Price_url": "https://www.list.am/item/17867497",
+   "Name": "Peugeot 206 հետչբեք, 1.4 լ, 2006 թ.",
+   "Name_url": "https://www.list.am/item/17867497",
+   "Details": "Հրազդան, 2006 թ., 107,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17867497"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17669450",
+   "Price": "$2,200",
+   "Price_url": "https://www.list.am/item/17669450",
+   "Name": "VAZ (Lada) 2110, 1.6 լ, 2006 թ., գազ",
+   "Name_url": "https://www.list.am/item/17669450",
+   "Details": "Աջափնյակ, 2006 թ., 140,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17669450"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17553922",
+   "Price": "$4,000",
+   "Price_url": "https://www.list.am/item/17553922",
+   "Name": "VAZ (Lada) 2107, 1.7 լ, 2010 թ., գազ",
+   "Name_url": "https://www.list.am/item/17553922",
+   "Details": "Էջմիածին, 2010 թ., 70,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17553922"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17526005",
+   "Price": "Փնտրում եմ",
+   "Price_url": "https://www.list.am/item/17526005",
+   "Name": "Opel Astra հետչբեք, 1.8 լ, 2002 թ.",
+   "Name_url": "https://www.list.am/item/17526005",
+   "Details": "Էրեբունի, 2002 թ., 150 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17526005"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17773616",
+   "Price": "$3,000",
+   "Price_url": "https://www.list.am/item/17773616",
+   "Name": "VAZ (Lada) 2110, 1.6 լ, 2006 թ., գազ",
+   "Name_url": "https://www.list.am/item/17773616",
+   "Details": "Աբովյան, 2006 թ., 120 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17773616"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17880789",
+   "Price": "$3,100",
+   "Price_url": "https://www.list.am/item/17880789",
+   "Name": "VAZ (Lada) 2107, 1.7 լ, 2008 թ., գազ",
+   "Name_url": "https://www.list.am/item/17880789",
+   "Details": "Արմավիր, 2008 թ., 13,578 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17880789"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17741840",
+   "Price": "$2,600",
+   "Price_url": "https://www.list.am/item/17741840",
+   "Name": "VAZ (Lada) 2107, 1.7 լ, 2004 թ., գազ",
+   "Name_url": "https://www.list.am/item/17741840",
+   "Details": "Չարենցավան, 2004 թ., 125,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17741840"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/15900519",
+   "Price": "$3,800",
+   "Price_url": "https://www.list.am/item/15900519",
+   "Name": "Kia Sedona, 3.5 լ, 2001 թ.",
+   "Name_url": "https://www.list.am/item/15900519",
+   "Details": "Կենտրոն, 2001 թ., 100,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/15900519"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/16864930",
+   "Price": "$1,800",
+   "Price_url": "https://www.list.am/item/16864930",
+   "Name": "Ford Focus, 2.0 լ, լիաքարշ, 2003 թ., գազ",
+   "Name_url": "https://www.list.am/item/16864930",
+   "Details": "Ջերմուկ, 2003 թ., 98,888 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16864930"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/15671526",
+   "Price": "$1,800",
+   "Price_url": "https://www.list.am/item/15671526",
+   "Name": "VAZ (Lada) 2107, 1.5 լ, 2002 թ., գազ",
+   "Name_url": "https://www.list.am/item/15671526",
+   "Details": "Ալավերդի, 2002 թ., 95,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/15671526"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17961144",
+   "Price": "$2,800",
+   "Price_url": "https://www.list.am/item/17961144",
+   "Name": "Opel Vectra, 2.2 լ, 2002 թ.",
+   "Name_url": "https://www.list.am/item/17961144",
+   "Details": "Շենգավիթ, 2002 թ., 146 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17961144"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/16307771",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/16307771",
+   "Name": "VAZ (Lada) 2107, 1.5 լ, 2007 թ., գազ",
+   "Name_url": "https://www.list.am/item/16307771",
+   "Details": "Մարալիկ, 2007 թ., 20,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16307771"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17896391",
+   "Price": "$2,000",
+   "Price_url": "https://www.list.am/item/17896391",
+   "Name": "VAZ (Lada) 2107, 1.7 լ, 2005 թ., գազ",
+   "Name_url": "https://www.list.am/item/17896391",
+   "Details": "Շենգավիթ, 2005 թ., 80,485 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17896391"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17427128",
+   "Price": "$2,700",
+   "Price_url": "https://www.list.am/item/17427128",
+   "Name": "Citroen C5, 1.7 լ, 2002 թ., գազ",
+   "Name_url": "https://www.list.am/item/17427128",
+   "Details": "Շենգավիթ, 2002 թ., 400 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17427128"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17580850",
+   "Price": "$4,000",
+   "Price_url": "https://www.list.am/item/17580850",
+   "Name": "Peugeot Partner, 1.9 լ, դիզել, 2005 թ.",
+   "Name_url": "https://www.list.am/item/17580850",
+   "Details": "Ուջան, 2005 թ., 95,000 կմ, Դիզել",
+   "Details_url": "https://www.list.am/item/17580850"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/16937465",
+   "Price": "$2,500",
+   "Price_url": "https://www.list.am/item/16937465",
+   "Name": "Iran Khodro Samand, 1.8 լ, 2010 թ., գազ",
+   "Name_url": "https://www.list.am/item/16937465",
+   "Details": "Ավան, 2010 թ., 73,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/16937465"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17429292",
+   "Price": "$1,950",
+   "Price_url": "https://www.list.am/item/17429292",
+   "Name": "VAZ (Lada) 21099, 1.5 լ, 2002 թ., գազ",
+   "Name_url": "https://www.list.am/item/17429292",
+   "Details": "Աշտարակ, 2002 թ., 150,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17429292"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17923984",
+   "Price": "$3,800",
+   "Price_url": "https://www.list.am/item/17923984",
+   "Name": "VAZ (Lada) 2121 (4x4), 1.7 լ, լիաքարշ, 2005 թ., գազ",
+   "Name_url": "https://www.list.am/item/17923984",
+   "Details": "Գյումրի, 2005 թ., 25 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17923984"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/11921008",
+   "Price": "$2,000",
+   "Price_url": "https://www.list.am/item/11921008",
+   "Name": "VAZ (Lada) 2107, 1.7 լ, 2007 թ., գազ",
+   "Name_url": "https://www.list.am/item/11921008",
+   "Details": "Գյումրի, 2007 թ., 13,800 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/11921008"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/15604546",
+   "Price": "$4,000",
+   "Price_url": "https://www.list.am/item/15604546",
+   "Name": "Ford C-MAX ունիվերսալ, 1.8 լ, 2008 թ., գազ",
+   "Name_url": "https://www.list.am/item/15604546",
+   "Details": "Աշտարակ, 2008 թ., 25 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/15604546"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17866716",
+   "Price": "$3,550",
+   "Price_url": "https://www.list.am/item/17866716",
+   "Name": "Skoda Roomster, 1.4 լ, 2007 թ., գազ",
+   "Name_url": "https://www.list.am/item/17866716",
+   "Details": "Դավիթաշեն, 2007 թ., 98,988 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17866716"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17745278",
+   "Price": "$4,500",
+   "Price_url": "https://www.list.am/item/17745278",
+   "Name": "Opel Zafira, 1.8 լ, 2000 թ., գազ",
+   "Name_url": "https://www.list.am/item/17745278",
+   "Details": "Սպիտակ, 2000 թ., 235 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17745278"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17618648",
+   "Price": "$3,600",
+   "Price_url": "https://www.list.am/item/17618648",
+   "Name": "VAZ (Lada) 2112 հետչբեք, 1.6 լ, 2007 թ., գազ",
+   "Name_url": "https://www.list.am/item/17618648",
+   "Details": "Իջևան, 2007 թ., 20,000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17618648"
+  },
+  {
+   "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs=",
+   "url": "https://www.list.am/item/17729239",
+   "Price": "$3,500",
+   "Price_url": "https://www.list.am/item/17729239",
+   "Name": "Opel Astra, 1.6 լ, 2001 թ., գազ",
+   "Name_url": "https://www.list.am/item/17729239",
+   "Details": "Դավիթաշեն, 2001 թ., 3000 կմ, Բենզին",
+   "Details_url": "https://www.list.am/item/17729239"
+  }
+ ]
+}

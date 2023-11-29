@@ -1,0 +1,2721 @@
+<div id="search-result" class="list" style="opacity: 1;">
+<!-- car badge horizontal -->
+<div id="ad-2623921" class="card ">
+    <div class="card-image">
+        <a href="/offer/2623921">
+                        <img src="/static/offers/2623921/s-e0055762e2f803e80455424beed638a4.jpg" data-hover-img="/static/offers/2623921/s-b5a58d3c8bffe74877f24d5f367ff7ed.jpg" class="flipimg">
+                    </a>
+                <!--<span>5</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2623921">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2623921 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1981</span>&nbsp;
+                                        Mercedes-Benz S 500
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 280000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>280000  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#c7c7c7"></span>Gray
+        </div>
+        <div class="card-loc">
+           <span class="card-date">24.05.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1981" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            <div class="content-block" style="display: none;"><div class="phone-number-block"><img src="/static/other/car-vtb.png" alt=""><img src="/static/other/loan.png" alt=""></div><div class="lease-info-block"><ul><li><p>Կանխավճար(%)</p><span><input id="pUps" type="text"></span></li><li><p>Ժամկետ (ամիս)</p><span><input id="pUpd" type="text"></span></li><li><p>Ամսավճար (֏)</p><span id="pUpp">93,339</span></li></ul></div><div class="vtb-dialog-footer"><!--<span class="vtb-phone"><i class="material-icons">phone</i>87-87</span>--><button class="waves-effect waves-light btn continue-block">Դիմել</button></div></div></div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 99 367060</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2625978" class="card ">
+    <div class="card-image">
+        <a href="/offer/2625978">
+                        <img src="/static/offers/2625978/s-d42dd24a6a6cfea7646f7291959edd85.jpg" data-hover-img="/static/offers/2625978/s-5f0e8e0e4d50b5b1abf9a1fb30129259.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2625978">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2625978 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz 230
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 150000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>150000  km </strong>,
+            C-Class, Sedan, Manual, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, Light Sensor
+        </div>
+        <div class="card-loc">
+           <span class="card-date">05.08.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 335537</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2608574" class="card ">
+    <div class="card-image">
+        <a href="/offer/2608574">
+                        <img src="/static/offers/2608574/s-28a084371accba67db4f2c4f81145681.jpg" data-hover-img="/static/offers/2608574/s-d9a2259328cdb09eb8e22b184dca474e.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2608574">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2608574 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz C 240
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 95000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>95000  km </strong>,
+            c-class, Sedan, Automatic, Left, Gasoline, <span style="background-color:#2e56a6"></span>Blue, <span style="background-color:#000000"></span>Black
+        </div>
+        <div class="card-loc">
+           <span class="card-date">23.04.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 94 334449</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2625986" class="card ">
+    <div class="card-image">
+        <a href="/offer/2625986">
+                        <img src="/static/offers/2625986/s-961eaca7fa6eea0d72e5bf31e16602ab.jpg" data-hover-img="/static/offers/2625986/s-968fc745e5acde90cb3bcf314c73da56.jpg" class="flipimg">
+                    </a>
+                <!--<span>5</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2625986">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2625986 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 200000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>200000  km </strong>,
+            ML 320, SUV / Truck, Automatic, Left, Gas, <span style="background-color:#000000"></span>Black, ABS
+        </div>
+        <div class="card-loc">
+           <span class="card-date">05.08.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 335537</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2618676" class="card ">
+    <div class="card-image">
+        <a href="/offer/2618676">
+                        <img src="/static/offers/2618676/s-ef391689aaeb57c27cbcb7d0b69c284b.jpg" data-hover-img="/static/offers/2618676/s-d97aba56ebef71d5ee60c2b982d4f0d8.jpg" class="flipimg">
+                    </a>
+                <!--<span>6</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2618676">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2618676 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 240000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>240000  km </strong>,
+            AVANGARD, Sedan, Automatic, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, ABS
+        </div>
+        <div class="card-loc">
+           <span class="card-date">13.05.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 33 525240</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2614713" class="card ">
+    <div class="card-image">
+        <a href="/offer/2614713">
+                        <img src="/static/offers/2614713/s-b6369488138d627cb84281d2f4aba845.jpg" data-hover-img="/static/offers/2614713/s-6a1ca7c3141797f1feb11ffc89d09939.jpg" class="flipimg">
+                    </a>
+                <!--<span>6</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2614713">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2614713 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz C 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 120000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>120000  km </strong>,
+            Sedan, Automatic, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, ABS, ESP
+        </div>
+        <div class="card-loc">
+           <span class="card-date">05.05.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 94 312377</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2604862" class="card ">
+    <div class="card-image">
+        <a href="/offer/2604862">
+                        <img src="/static/offers/2604862/s-7900bd537cbd7ca7dce1d079a66caf00.jpg" data-hover-img="/static/offers/2604862/s-c0374544cb24cd0e85fe9eab9b0ebc8e.jpg" class="flipimg">
+                    </a>
+                <!--<span>5</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2604862">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2604862 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz C 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 165000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>165000  km </strong>,
+            Kompressor, Sedan, Manual, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, ABS
+        </div>
+        <div class="card-loc">
+           <span class="card-date">17.04.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 94 250829</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2636523" class="card ">
+    <div class="card-image">
+        <a href="/offer/2636523">
+                        <img src="/static/offers/2636523/s-8a2973315a73c0eb663d30aaf87b48cc.jpg" data-hover-img="/static/offers/2636523/s-9c724c711c6265a392b6516fbe8fd1ec.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2636523">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2636523 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1995</span>&nbsp;
+                                        Mercedes-Benz 124
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 420000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>420000  km </strong>,
+            Sedan, Manual, Left, Gasoline, <span style="background-color:#12a30d"></span>Green
+        </div>
+        <div class="card-loc">
+           <span class="card-date">21.06.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1995" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 99 506615</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2602185" class="card ">
+    <div class="card-image">
+        <a href="/offer/2602185">
+                        <img src="https://auto.am/static/offers/0/s-default.jpg">
+                    </a>
+                <!--<span>0</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2602185">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2602185 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 240
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 282000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>282000  km </strong>,
+            E 240, Sedan, Automatic, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver
+        </div>
+        <div class="card-loc">
+           <span class="card-date">13.04.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2640000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 98 262605</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2569531" class="card ">
+    <div class="card-image">
+        <a href="/offer/2569531">
+                        <img src="/static/offers/2569531/s-354ee3ecfa21a568b284a978bbc63cb2.jpg" data-hover-img="/static/offers/2569531/s-53e8d7fb9feb6433e1a61cf633c1c5db.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2569531">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2569531 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1995</span>&nbsp;
+                                        Mercedes-Benz S 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 130000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>130000  km </strong>,
+            Sedan, Automatic, Left, Gasoline, <span style="background-color:#000000"></span>Black, ABS, ESP
+        </div>
+        <div class="card-loc">
+           <span class="card-date">11.02.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1995" data-price="2600000" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 313197</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<div class="azd shadow marg-bot-24"><div data-id="47" class="bncont "><!-- Head -->
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async=""></script>
+
+<!-- Auto.am -->
+<!-- Desktop fix -->
+<div id="adfox_fix" class=""><a href="https://ads.adfox.ru/376262/clickURL?ad-session-id=478981656762570752&amp;hash=833228c59ab1b47e&amp;sj=JelAkrEHTwGjKkkuncckHkTDMWJ3PCYv0E9pmiArtDQNhfHtpoWkZJyynr_jCA%3D%3D&amp;rand=mkwhkul&amp;rqs=zNifaLzqaW7MMMBi9UTGFbaiqw61qIg6&amp;pr=njyfixb&amp;p1=cthps&amp;ytt=552506203701253&amp;p5=lwaca&amp;ybv=0.608237&amp;p2=hmaz&amp;ylv=0.608237&amp;pf=https%3A%2F%2Ftrack.vbet.digital%2F62b42c7b25437300019fca63%3Fsub1%3D%7Bpid%7D%26sub2%3D%5Bpid%5D%26sub3%3D%24pid%24%26sub4%3Dref%26sub5%3Dpid%26ref_id%3D%21%5Bpid%5D" target="_blank"><img src="https://banners.adfox.ru/220623/adfox/1924880/5384180.9cbe616f257033518649dde613152a8b.gif" style="width: 100%; height: auto; border: 0px; vertical-align: middle; max-width: 816px;"></a></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 376262,
+            containerId: 'adfox_fix',
+            params: {
+                p1: 'cthps',
+                p2: 'hmaz'
+            }
+        })
+    })
+</script></div></div><!-- car badge horizontal -->
+<div id="ad-2748929" class="card ">
+    <div class="card-image">
+        <a href="/offer/2748929">
+                        <img src="/static/offers/2748929/s-ddfc243edac84e5e4a007271d8b1c5d0.jpg" data-hover-img="/static/offers/2748929/s-354d8f8dfb237562208522457f6b222d.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2748929">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2748929 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz C 180
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 240000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>240000  km </strong>,
+            Sedan, Manual, Left, Gas, <span style="background-color:#2e56a6"></span>Blue
+        </div>
+        <div class="card-loc">
+           <span class="card-date">14.03.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2591400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 91 917220</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2748765" class="card ">
+    <div class="card-image">
+        <a href="/offer/2748765">
+                        <img src="/static/offers/2748765/s-27929b9c6bb47169941ec7ca7908d880.jpg" data-hover-img="/static/offers/2748765/s-4c6e9f9917a6dcd4d2e3351f2abccafc.jpg" class="flipimg">
+                    </a>
+                <!--<span>9</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2748765">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2748765 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1997</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 130000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>130000  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#000000"></span>Black, ABS, TRC
+        </div>
+        <div class="card-loc">
+           <span class="card-date">13.03.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1997" data-price="2591400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 44 993007</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2607449" class="card ">
+    <div class="card-image">
+        <a href="/offer/2607449">
+                        <img src="/static/offers/2607449/s-e2af2ab5ce17e46564e91861414ab806.jpg" data-hover-img="/static/offers/2607449/s-928378962facd12e88b8e974edf9dfc1.jpg" class="flipimg">
+                    </a>
+                <!--<span>16</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2607449">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2607449 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1996</span>&nbsp;
+                                        Mercedes-Benz C 230
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 850</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 200000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>200000  km </strong>,
+            Sedan, Manual, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver, ABS, Heated Mirrors
+        </div>
+        <div class="card-loc">
+           <span class="card-date">21.04.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 850</span>                                         </div>
+                            <div class="lease-block" data-year="1996" data-price="2560800" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 77 516882</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2530860" class="card ">
+    <div class="card-image">
+        <a href="/offer/2530860">
+                        <img src="/static/offers/2530860/s-e7c174269a2779c2dc6ca93ba65586dd.jpg" data-hover-img="/static/offers/2530860/s-e57ba6f2c84af18ca67bf16ac3a0c039.jpg" class="flipimg">
+                    </a>
+                <!--<span>6</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2530860">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2530860 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Nissan Pathfinder
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 150 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>150  km </strong>,
+            3.3, SUV / Truck, Manual, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, <span style="background-color:#000000"></span>Black
+        </div>
+        <div class="card-loc">
+           <span class="card-date">25.11.2020</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2550000" data-make="276">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 91 600631</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2623036" class="card ">
+    <div class="card-image">
+        <a href="/offer/2623036">
+                        <img src="/static/offers/2623036/s-9e90454356ce0445e90d6da759d57b5a.jpg" data-hover-img="/static/offers/2623036/s-bf1790966ca828cff90ad348bd88e439.jpg" class="flipimg">
+                    </a>
+                <!--<span>5</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2623036">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2623036 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1995</span>&nbsp;
+                                        Mercedes-Benz C 220
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 800</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 300000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>300000  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver, 2.2, 150
+        </div>
+        <div class="card-loc">
+           <span class="card-date">22.05.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 800</span>                                         </div>
+                            <div class="lease-block" data-year="1995" data-price="2534400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 121464</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2573669" class="card ">
+    <div class="card-image">
+        <a href="/offer/2573669">
+                        <img src="https://auto.am/static/offers/0/s-default.jpg">
+                    </a>
+                <!--<span>0</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2573669">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2573669 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz C 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 800</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 115420 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>115420  km </strong>,
+            w203, Sedan, Manual, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, ABS
+        </div>
+        <div class="card-loc">
+           <span class="card-date">19.02.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 800</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2534400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 95 177117</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2594923" class="card ">
+    <div class="card-image">
+        <a href="/offer/2594923">
+                        <img src="/static/offers/2594923/s-7add4ee6c8d7b0a0d83422d0fd355e56.jpg" data-hover-img="/static/offers/2594923/s-609c777c1b0a1d17ba8df5a51eaadf71.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2594923">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2594923 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 800</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 135596 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>135596  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver, ABS, ESP
+        </div>
+        <div class="card-loc">
+           <span class="card-date">31.03.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 800</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2534400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 55 320368</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2573644" class="card ">
+    <div class="card-image">
+        <a href="/offer/2573644">
+                        <img src="/static/offers/2573644/s-36cb6d9711f209279a99249c270cf5fc.jpg" data-hover-img="/static/offers/2573644/s-a983a796a56ebfdac43b01a8fc835dd6.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2573644">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2573644 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1994</span>&nbsp;
+                                        Mercedes-Benz S 500
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 800</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 755000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>755000  km </strong>,
+            W140, Sedan, Automatic, Left, Gasoline, <span style="background-color:#f20024"></span>Red
+        </div>
+        <div class="card-loc">
+           <span class="card-date">18.02.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 800</span>                                         </div>
+                            <div class="lease-block" data-year="1994" data-price="2534400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 91 407273</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2611710" class="card ">
+    <div class="card-image">
+        <a href="/offer/2611710">
+                        <img src="/static/offers/2611710/s-c626078de639274b4a6d713df40a0785.jpg" data-hover-img="/static/offers/2611710/s-7dd2abc4b00f70f7b117c622a38fcaee.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2611710">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2611710 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 800</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 189132 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>189132  km </strong>,
+            Sedan, Automatic, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, ABS, TRC
+        </div>
+        <div class="card-loc">
+           <span class="card-date">29.04.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 800</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2534400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 91 425694</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2624636" class="card ">
+    <div class="card-image">
+        <a href="/offer/2624636">
+                        <img src="/static/offers/2624636/s-972e8b1632f9a708d68d49825ebc8830.jpg" data-hover-img="/static/offers/2624636/s-f4597f9250561be9c8268d5381f8f5b8.jpg" class="flipimg">
+                    </a>
+                <!--<span>17</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2624636">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2624636 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Chevrolet Camaro
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 800</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 96000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>96000  km </strong>,
+            Coupe , Automatic, Left, Gasoline, <span style="background-color:#f20024"></span>Red, 3, 18"
+        </div>
+        <div class="card-loc">
+           <span class="card-date">25.05.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 800</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2534400" data-make="56">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 33 633341</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2573446" class="card ">
+    <div class="card-image">
+        <a href="/offer/2573446">
+                        <img src="/static/offers/2573446/s-f4db30b202a927f4f96d30e93799b33d.jpg" data-hover-img="/static/offers/2573446/s-faf64d5ceaa5a766ccc5334d7b4b3c52.jpg" class="flipimg">
+                    </a>
+                <!--<span>2</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2573446">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2573446 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz C 240
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 800</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 272000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>272000  km </strong>,
+            elegance, Sedan, Automatic, Left, Gas, <span style="background-color:#2e56a6"></span>Blue, ABS
+        </div>
+        <div class="card-loc">
+           <span class="card-date">18.02.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 800</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2534400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 841191</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2749348" class="card ">
+    <div class="card-image">
+        <a href="/offer/2749348">
+                        <img src="/static/offers/2749348/s-2fe59207d818ece6e4618667152fc62a.jpg" data-hover-img="/static/offers/2749348/s-79154073ed04ac52e0e553c6b354f784.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2749348">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2749348 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz C 180
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 900</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 310000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>310000  km </strong>,
+            Sedan, Manual, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver
+        </div>
+        <div class="card-loc">
+           <span class="card-date">15.03.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 900</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2523353" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 189629</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2750316" class="card ">
+    <div class="card-image">
+        <a href="/offer/2750316">
+                        <img src="/static/offers/2750316/s-bc3be9b7174a8d58c652052097269f4b.jpg" data-hover-img="/static/offers/2750316/s-c0c789fd6028f11c56245a2e8a412bb7.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2750316">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2750316 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Volkswagen Passat
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 1000000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>1000000  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver, <span style="background-color:#000000"></span>Black, 2.8
+        </div>
+        <div class="card-loc">
+           <span class="card-date">17.03.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2495200" data-make="401">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 94 568150</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2748727" class="card ">
+    <div class="card-image">
+        <a href="/offer/2748727">
+                        <img src="/static/offers/2748727/s-109dc0ed41b35a12cab7195f2fdea37c.jpg" data-hover-img="/static/offers/2748727/s-5211561ac7ca945dba717042b23ebf1e.jpg" class="flipimg">
+                    </a>
+                <!--<span>9</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2748727">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2748727 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1999</span>&nbsp;
+                                        Mercedes-Benz E 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 250000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>250000  km </strong>,
+            Classic, Sedan, Manual, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, <span style="background-color:#000000"></span>Black
+        </div>
+        <div class="card-loc">
+           <span class="card-date">17.03.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1999" data-price="2495200" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 77 713831</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2581682" class="card ">
+    <div class="card-image">
+        <a href="/offer/2581682">
+                        <img src="/static/offers/2581682/s-ea96389f09bd6a5255cda9e86b73c79c.jpg" data-hover-img="/static/offers/2581682/s-9f352a5b3f976ed9591d5e77f8341189.jpg" class="flipimg">
+                    </a>
+                <!--<span>4</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2581682">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2581682 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz 240
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 700</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 160000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>160000  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver, ABS
+        </div>
+        <div class="card-loc">
+           <span class="card-date">06.03.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 700</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2481600" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 98 106057</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2599462" class="card ">
+    <div class="card-image">
+        <a href="/offer/2599462">
+                        <img src="/static/offers/2599462/s-3449ca4b538816876bb1140a22f88cfd.jpg" data-hover-img="/static/offers/2599462/s-4558b70898ae8ba4041f509799a5d1be.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2599462">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2599462 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 240
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 700</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 158649 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>158649  km </strong>,
+            Sedan, Manual, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver
+        </div>
+        <div class="card-loc">
+           <span class="card-date">07.04.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 700</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2481600" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 426474</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2585143" class="card ">
+    <div class="card-image">
+        <a href="/offer/2585143">
+                        <img src="https://auto.am/static/offers/0/s-default.jpg">
+                    </a>
+                <!--<span>0</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2585143">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2585143 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 700</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 200000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>200000  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#d6ab00"></span>Golden
+        </div>
+        <div class="card-loc">
+           <span class="card-date">13.03.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 700</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2481600" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 98 975744</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2575401" class="card ">
+    <div class="card-image">
+        <a href="/offer/2575401">
+                        <img src="/static/offers/2575401/s-88d6a74f50c43626d73105ebe81defdd.jpg" data-hover-img="/static/offers/2575401/s-6f5aa508f3cbdd9d0f89468520c2b9e4.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2575401">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2575401 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 700</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 260000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>260000  km </strong>,
+            AVANGARDE, Sedan, Automatic, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver, <span style="background-color:#000000"></span>Black
+        </div>
+        <div class="card-loc">
+           <span class="card-date">22.02.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 700</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2481600" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 41 881777</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2635442" class="card ">
+    <div class="card-image">
+        <a href="/offer/2635442">
+                        <img src="/static/offers/2635442/s-605c2d9f6f87b5cd32ec803349e1d1b7.jpg" data-hover-img="/static/offers/2635442/s-da6190a6171cdbf49644560ad7ecbeaf.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2635442">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2635442 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1999</span>&nbsp;
+                                        Mercedes-Benz E 430
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 137000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>137000  km </strong>,
+            Mercedes e 430 4matic, Sedan, Automatic, Left, Gas, <span style="background-color:#bababa"></span>Օther color, <span style="background-color:#ccb486"></span>Beige
+        </div>
+        <div class="card-loc">
+           <span class="card-date">18.06.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1999" data-price="2479400" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 98 792892</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2643842" class="card ">
+    <div class="card-image">
+        <a href="/offer/2643842">
+                        <img src="/static/offers/2643842/s-fe9ece654ec79ad83b88115852464446.jpg" data-hover-img="/static/offers/2643842/s-58e6b256ef7c5780e9f2bab6ec84f717.jpg" class="flipimg">
+                    </a>
+                <!--<span>6</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2643842">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2643842 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1994</span>&nbsp;
+                                        Mercedes-Benz S 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 190000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>190000  miles </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#000000"></span>Black, <span style="background-color:#000000"></span>Black, 3.2
+        </div>
+        <div class="card-loc">
+           <span class="card-date">10.07.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1994" data-price="2478850" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 989994</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2643342" class="card ">
+    <div class="card-image">
+        <a href="/offer/2643342">
+                        <img src="/static/offers/2643342/s-8b56a7949c89093d16f54c38e82e66c4.jpg" data-hover-img="/static/offers/2643342/s-3286a065827d391255e106b79624a42f.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2643342">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2643342 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 430
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 256000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>256000  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#bbbfc7"></span>Silver, ABS, ESP
+        </div>
+        <div class="card-loc">
+           <span class="card-date">08.07.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2476050" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 94 791479</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2749688" class="card ">
+    <div class="card-image">
+        <a href="/offer/2749688">
+                        <img src="/static/offers/2749688/s-e613996697b4334cd109acb261882ec7.jpg" data-hover-img="/static/offers/2749688/s-600da614839adf55e57d43010133d753.jpg" class="flipimg">
+                    </a>
+                <!--<span>10</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2749688">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2749688 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1997</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 800</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 300000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>300000  km </strong>,
+            210, Sedan, Automatic, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, <span style="background-color:#000000"></span>Black
+        </div>
+        <div class="card-loc">
+           <span class="card-date">15.03.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 800</span>                                         </div>
+                            <div class="lease-block" data-year="1997" data-price="2471856" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 77 058878</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2658783" class="card ">
+    <div class="card-image">
+        <a href="/offer/2658783">
+                        <img src="https://auto.am/static/offers/0/s-default.jpg">
+                    </a>
+                <!--<span>0</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2658783">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2658783 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz C 240
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 1234 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>1234  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#2e56a6"></span>Blue, ABS, ESP
+        </div>
+        <div class="card-loc">
+           <span class="card-date">16.08.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2461300" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 98 906960</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2635810" class="card ">
+    <div class="card-image">
+        <a href="/offer/2635810">
+                        <img src="/static/offers/2635810/s-959884763be6979dd1e2391ce9c85a80.jpg" data-hover-img="/static/offers/2635810/s-16dbccc18462b0a21e3bcdb64a218b73.jpg" class="flipimg">
+                    </a>
+                <!--<span>6</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2635810">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2635810 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1999</span>&nbsp;
+                                        Mercedes-Benz E 280
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 650</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 200000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>200000  km </strong>,
+            w210, Sedan, Automatic, Left, Gas, <span style="background-color:#bababa"></span>Օther color
+        </div>
+        <div class="card-loc">
+           <span class="card-date">19.06.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 650</span>                                         </div>
+                            <div class="lease-block" data-year="1999" data-price="2455200" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 77 950414</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2754739" class="card ">
+    <div class="card-image">
+        <a href="/offer/2754739">
+                        <img src="/static/offers/2754739/s-b8d7d02e0131d5581c3d556fd4808744.jpg" data-hover-img="/static/offers/2754739/s-1a513e8e70a901c136a20b1bda1bc5d7.jpg" class="flipimg">
+                    </a>
+                <!--<span>6</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2754739">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2754739 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 430
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 100000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>100000  km </strong>,
+            Ayo, Sedan, Automatic, Left, Gasoline, <span style="background-color:#000000"></span>Black, <span style="background-color:#c7c7c7"></span>Gray
+        </div>
+        <div class="card-loc">
+           <span class="card-date">28.03.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2451500" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 41 147141</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2552165" class="card ">
+    <div class="card-image">
+        <a href="/offer/2552165">
+                        <img src="/static/offers/2552165/s-d3f34959e95c725deff5f24785ad97d9.jpg" data-hover-img="/static/offers/2552165/s-dc713a7cdc0e594fb186d4cd342086b8.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2552165">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2552165 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz ML 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 220000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>220000  km </strong>,
+            Wagon, Automatic, Left, Gasoline, <span style="background-color:#12a30d"></span>Green
+        </div>
+        <div class="card-loc">
+           <span class="card-date">23.08.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2450550" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 99 993999</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2705514" class="card ">
+    <div class="card-image">
+        <a href="/offer/2705514">
+                        <img src="/static/offers/2705514/s-906dc591cae38e8f5e6ecbc0a0d3b4a4.jpg" data-hover-img="/static/offers/2705514/s-960e37f7b8dda48265f8951b77b57bd3.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2705514">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2705514 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1999</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 270000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>270000  km </strong>,
+            Sedan, Automatic, Left, Gas, <span style="background-color:#12a30d"></span>Green
+        </div>
+        <div class="card-loc">
+           <span class="card-date">03.12.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1999" data-price="2442500" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 77 111094</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2755909" class="card ">
+    <div class="card-image">
+        <a href="/offer/2755909">
+                        <img src="/static/offers/2755909/s-c39ec507d1eb20b5c0b4bca18925327b.jpg" data-hover-img="/static/offers/2755909/s-814cdcfa91f927382ef319afc1fe7c1f.jpg" class="flipimg">
+                    </a>
+                <span>Urgent</span>
+                <!--<span>6</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2755909">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2755909 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz C 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 250000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>250000  km </strong>,
+            Sedan, Automatic, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver
+        </div>
+        <div class="card-loc">
+           <span class="card-date">31.03.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2438850" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 95 586608</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2636220" class="card ">
+    <div class="card-image">
+        <a href="/offer/2636220">
+                        <img src="/static/offers/2636220/s-1a8564cd1adc38db4c012e8fa2ec12ba.jpg" data-hover-img="/static/offers/2636220/s-bd84462550ff8eb094e6ac5b77dd26da.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2636220">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2636220 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1997</span>&nbsp;
+                                        Mercedes-Benz E 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 900</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 296000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>296000  km </strong>,
+            W210, Sedan, Manual, Left, Gasoline, <span style="background-color:#2e56a6"></span>Blue, ABS
+        </div>
+        <div class="card-loc">
+           <span class="card-date">20.06.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 900</span>                                         </div>
+                            <div class="lease-block" data-year="1997" data-price="2429273" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 031486</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2620833" class="card ">
+    <div class="card-image">
+        <a href="/offer/2620833">
+                        <img src="/static/offers/2620833/s-8bc8e6d7bb520b2324a1f70e33000ddf.jpg" data-hover-img="/static/offers/2620833/s-e0d535c9993df0ed38905cec18cc3a39.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2620833">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2620833 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1997</span>&nbsp;
+                                        Mercedes-Benz E 280
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 600</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 208000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>208000  km </strong>,
+            Avangarde, Sedan, Automatic, Left, Gasoline, <span style="background-color:#2e56a6"></span>Blue, <span style="background-color:#000000"></span>Black
+        </div>
+        <div class="card-loc">
+           <span class="card-date">18.05.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 600</span>                                         </div>
+                            <div class="lease-block" data-year="1997" data-price="2428800" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 91 464949</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2572627" class="card ">
+    <div class="card-image">
+        <a href="/offer/2572627">
+                        <img src="/static/offers/2572627/s-600ce3f01b33f4344917a97e254310c8.jpg" data-hover-img="/static/offers/2572627/s-5555745e32d457c5edc5ed29d20484be.jpg" class="flipimg">
+                    </a>
+                <!--<span>5</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2572627">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2572627 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Mercedes-Benz CE 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 600</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 230000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>230000  km </strong>,
+            Sedan, Manual, Left, Gas, <span style="background-color:#000000"></span>Black, <span style="background-color:#000000"></span>Black, 2.0
+        </div>
+        <div class="card-loc">
+           <span class="card-date">17.02.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 600</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2428800" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 77 624521</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2756772" class="card ">
+    <div class="card-image">
+        <a href="/offer/2756772">
+                        <img src="/static/offers/2756772/s-78bb2aeed03df686f2c79097837c670d.jpg" data-hover-img="/static/offers/2756772/s-5a165d1eb90205f4c0be678a359f6a54.jpg" class="flipimg">
+                    </a>
+                <!--<span>6</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2756772">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2756772 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1995</span>&nbsp;
+                                        Mercedes-Benz S 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 250000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>250000  km </strong>,
+            Sedan, Automatic, Left, Gasoline, <span style="background-color:#000000"></span>Black, ABS, TRC
+        </div>
+        <div class="card-loc">
+           <span class="card-date">02.04.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1995" data-price="2423900" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 996886</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2756747" class="card ">
+    <div class="card-image">
+        <a href="/offer/2756747">
+                        <img src="/static/offers/2756747/s-3cb9278e4f9309e552fb98bb487f2474.jpg" data-hover-img="/static/offers/2756747/s-570ca730ef812d9e67d9dc3934b12206.jpg" class="flipimg">
+                    </a>
+                <!--<span>5</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2756747">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2756747 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz C 180
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 223000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>223000  km </strong>,
+            Չունի, Sedan, Manual, Left, Gas, <span style="background-color:#bababa"></span>Օther color, ABS
+        </div>
+        <div class="card-loc">
+           <span class="card-date">24.04.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2423900" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 98 896757</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2740619" class="card ">
+    <div class="card-image">
+        <a href="/offer/2740619">
+                        <img src="/static/offers/2740619/s-dcd9b2581d17d5b1624bfff1f4681df7.jpg" data-hover-img="/static/offers/2740619/s-b1ed1ef51856facbaa97503685116513.jpg" class="flipimg">
+                    </a>
+                <!--<span>10</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2740619">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2740619 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1997</span>&nbsp;
+                                        Mercedes-Benz E 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 137000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>137000  km </strong>,
+            Sedan, Automatic, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver
+        </div>
+        <div class="card-loc">
+           <span class="card-date">21.02.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1997" data-price="2419600" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 94 273387</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2654556" class="card ">
+    <div class="card-image">
+        <a href="/offer/2654556">
+                        <img src="/static/offers/2654556/s-692873c95447160bd358516da8bd599e.jpg" data-hover-img="/static/offers/2654556/s-7b849498ebfeedcc4a5a95ba3a94fd7f.jpg" class="flipimg">
+                    </a>
+                <!--<span>10</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2654556">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2654556 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz C 230
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 4 900</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 144000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>144000  km </strong>,
+            Sedan, Manual, Left, Gasoline, <span style="background-color:#000000"></span>Black
+        </div>
+        <div class="card-loc">
+           <span class="card-date">06.08.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 4 900</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2417415" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 605282</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2702635" class="card ">
+    <div class="card-image">
+        <a href="/offer/2702635">
+                        <img src="/static/offers/2702635/s-46ccdd933f985a34cb34b309ec2a2764.jpg" data-hover-img="/static/offers/2702635/s-e8dec0cf9fe14671625dc72d65d59984.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2702635">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2702635 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 350000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>350000  km </strong>,
+            Sedan, Automatic, Left, Gasoline, <span style="background-color:#bbbfc7"></span>Silver, ABS, Electric Mirrors
+        </div>
+        <div class="card-loc">
+           <span class="card-date">28.11.2021</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2415350" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 96 303170</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2719687" class="card ">
+    <div class="card-image">
+        <a href="/offer/2719687">
+                        <img src="/static/offers/2719687/s-4fb953545fae3f540e13e21a6c70d022.jpg" data-hover-img="/static/offers/2719687/s-ad2b8d3b18b40a0de1e40b553365526a.jpg" class="flipimg">
+                    </a>
+                <!--<span>7</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2719687">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2719687 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">2000</span>&nbsp;
+                                        Ford Galaxy
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 267000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>267000  km </strong>,
+            Sedan, Manual, Left, Gasoline, <span style="background-color:#8fcdff"></span>Sky-blue, 2.3, 146
+        </div>
+        <div class="card-loc">
+           <span class="card-date">09.01.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="2000" data-price="2413950" data-make="116">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 884918</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2720223" class="card ">
+    <div class="card-image">
+        <a href="/offer/2720223">
+                        <img src="/static/offers/2720223/s-3b0e40bc4797a6da325d91696b4bbb8c.jpg" data-hover-img="/static/offers/2720223/s-b87bc536a49ee79b3bb9eced28e7df80.jpg" class="flipimg">
+                    </a>
+                <!--<span>8</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2720223">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2720223 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1994</span>&nbsp;
+                                        Mercedes-Benz E 320
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 180000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>180000  miles </strong>,
+            W124, Sedan, Automatic, Left, Gas, <span style="background-color:#f0f0f0"></span>White, <span style="background-color:#ccb486"></span>Beige
+        </div>
+        <div class="card-loc">
+           <span class="card-date">10.01.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1994" data-price="2413950" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 94 734332</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2728874" class="card ">
+    <div class="card-image">
+        <a href="/offer/2728874">
+                        <img src="/static/offers/2728874/s-80a5a762ed18371bf711792146a1362f.jpg" data-hover-img="/static/offers/2728874/s-77154d153c492addb1966eea9154cab1.jpg" class="flipimg">
+                    </a>
+                <!--<span>4</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2728874">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2728874 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1995</span>&nbsp;
+                                        Mercedes-Benz S 600
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 235000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>235000  km </strong>,
+            5,0, Sedan, Automatic, Left, Gas, <span style="background-color:#000000"></span>Black, 5.0
+        </div>
+        <div class="card-loc">
+           <span class="card-date">29.01.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1995" data-price="2412850" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 93 442812</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<!-- car badge horizontal -->
+<div id="ad-2719828" class="card ">
+    <div class="card-image">
+        <a href="/offer/2719828">
+                        <img src="/static/offers/2719828/s-aad5881c39b342e5083683930f3ea972.jpg" data-hover-img="/static/offers/2719828/s-4e2f3e54a621d09a4fa42fab019db6cc.jpg" class="flipimg">
+                    </a>
+                <!--<span>9</span> -->
+    </div>
+    <div class="card-content">
+        <a href="/offer/2719828">
+            <div class="pad-top-6 pad-bot-6 makeflex makebetween">
+                <!-- ID: 2719828 | -->
+                <span class="card-title bold">
+                                        <span class="grey-text">1998</span>&nbsp;
+                                        Mercedes-Benz E 200
+                </span>
+
+                <div class="ad-mob-price bold grey-text">
+                                                                     <span class="">$ 5 000</span>                                                                                     </div>
+                <!-- <span class="card-mileage">&nbsp; 299000 կմ</span> -->
+            </div>
+        </a>
+
+
+
+        <div class="card-desc">
+            <strong>299000  km </strong>,
+            Sedan, Manual, Left, Gas, <span style="background-color:#12a30d"></span>Green
+        </div>
+        <div class="card-loc">
+           <span class="card-date">09.01.2022</span>
+           <span class="brown-text">Armenia</span>,
+                        <span class="green-text">Custom cleared</span>
+            
+
+        </div>
+                                    <div class="absolute fav-icon tooltip  tipso_style" onclick="return window.App.showLoginForm(event)" data-tipso="Sign in to save">
+                    <i class="material-icons">favorite</i>
+                </div>
+                        </div>
+    <div class="card-action">
+        <div class="price bold blue-text">
+                                 <span class="">$ 5 000</span>                                         </div>
+                            <div class="lease-block" data-year="1998" data-price="2412350" data-make="246">
+                <span class="vtb-lease">Autoloan</span>
+            </div>
+
+                <!-- <div class="card-banks green-text bold pad-bot-12 tooltipped"  data-position="bottom" data-delay="50" data-tooltip="Վարկով՝ AEB - $600" >Վարկով՝ AEB - $600</div> -->
+                <!--
+        <span class="card-contacts left bold"><i class="material-icons small" >phone</i> +374 77 638998</span>
+        -->
+            </div>
+</div>
+<!-- / car horizontal -->
+<div class="azd shadow marg-bot-24"></div><div class="azd shadow marg-bot-24"></div></div>
